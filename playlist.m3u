@@ -273,3 +273,13 @@ https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (Auto)
 #EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (240p)
+https://live.3cd.io/v1/broadcast/one/tracks-v6a1/mono.m3u8
+#EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (360p)
+https://live.3cd.io/v1/broadcast/one/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (Auto)
+#EXTVLCOPT:http-user-agent=IPTV
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
