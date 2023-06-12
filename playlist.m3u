@@ -38,6 +38,12 @@ http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/170103
 
 
 
+#EXTINF:-1 tvg-id="Animal Planet US" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet US (Hight)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/animal%20planet/tc-animal-planet-hight.m3u8
+#EXTINF:-1 tvg-id="Animal Planet US" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet US (Medium)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/animal%20planet/tc-animal-planet-medium.m3u8
+#EXTINF:-1 tvg-id="Animal Planet US" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet US (Low)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/animal%20planet/tc-animal-planet-low.m3u8
 #EXTINF:-1 tvg-id="Animal Planet US" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet US (Auto)
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/animal.m3u8
 
