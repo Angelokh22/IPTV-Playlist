@@ -112,6 +112,15 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
 
 
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO FHD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506575&extension=ts&play_token=5EuVMNu1wU
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507285&extension=ts&play_token=J0L9NsmzAD
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO LQ
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507477&extension=ts&play_token=7iXO0env94
+
+
+
 #EXTINF:-1 tvg-id="NourSat" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/noursat.png" group-title="Religion",NourSat
 https://svs.itworkscdn.net/nour4satlive/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="Mariam TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/NOUR-MARIAM.jpg" group-title="Religion",Mariam TV
