@@ -133,6 +133,14 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506575&extensi
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507285&extension=ts&play_token=J0L9NsmzAD
 #EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO LQ
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507477&extension=ts&play_token=7iXO0env94
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (180p)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/KTO/kto180.m3u8
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (360p)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/KTO/kto360.m3u8
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (480p)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/KTO/kto480.m3u8
+#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (Auto)
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 
