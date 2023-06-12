@@ -118,7 +118,7 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NourSat" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/noursat.png" group-title="Religion",NourSat
+#EXTINF:-1 tvg-id="NourSat" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/noursat.png" group-title="Religion",NourSat (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="Mariam TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/NOUR-MARIAM.jpg" group-title="Religion",Mariam TV
 https://svs.itworkscdn.net/nour9satlive/livestream/chunks.m3u8
@@ -253,22 +253,53 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507492&extensi
 
 
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (240p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/tracks-v6a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (360p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (480p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (576p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (720p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (1080p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (Auto)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (240p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/one/tracks-v6a1/mono.m3u8
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (360p)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/one/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (Auto)
+#EXTVLCOPT:http-user-agent=IPTV
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OTV-.png" group-title="Lebanon",OTV Lebanon (720p)
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="Lebanon",TL Lebanon (720p)
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International m3u8
+http://2hubs.ddns.net:25461/live/BabNour/telegrramm/74245.m3u8
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International ts
+http://2hubs.ddns.net:25461/live/BabNour/telegrramm/74245.ts
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International rtmp
+http://2hubs.ddns.net:25461/live/BabNour/telegrramm/74245.rtmp
+
+
+
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (180p)
+https://livear.cgtn.com/200a/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (360p)
+https://livear.cgtn.com/500a/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (720p)
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (Auto)
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
