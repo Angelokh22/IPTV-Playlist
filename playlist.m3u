@@ -405,6 +405,11 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 
 
 
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc2.png" group-title="MBC Group",MBC 2
+http://194.37.92.14:12000/play/a01c
+
+
+
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (144p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_10.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (252p)
@@ -465,6 +470,11 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_5_HD.png" group-title="MBC Group",MBC 5 (Auto)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
+http://194.37.92.14:12000/play/a01d
 
 
 
@@ -629,3 +639,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_PLUS_HD.png" group-title="MBC Group",MBC Plus Drama (Auto)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
+http://194.37.92.14:12000/play/a01e
