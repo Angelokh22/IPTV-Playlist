@@ -69,18 +69,30 @@ https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/17
 https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/18
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="BEIN SPORT VIP",BEIN SPORTS 7 SD
 https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/19
-#EXTINF:-1 tvg-id="Fox Movies" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-MOVIES.png" group-title="Bein MEDIA",Fox Movies
-https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/220
-#EXTINF:-1 tvg-id="" tvg-name="FoxLife" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_LIFE.png" group-title="Bein MEDIA",FoxLife
-https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/215
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_CRIME_HD.png" group-title="Bein MEDIA",Fox Crime
-https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/216
-#EXTINF:-1 tvg-id="" tvg-name="Fox Rewayat HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-REWAYAT.png" group-title="Bein MEDIA",Fox Rewayat HD
-https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/217
 #EXTINF:-1 tvg-id="OSN Discovery Science HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="Documentary",OSN Discovery Science HD
 https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/186
 #EXTINF:-1 tvg-id="OSN Discovery HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoverychannel.png" group-title="Documentary",OSN Discovery HD
 https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/187
+
+#EXTINF:-1 tvg-id="Fox Movies" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-MOVIES.png" group-title="Fox MEDIA",Fox Movies
+https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/220
+#EXTINF:-1 tvg-id="" tvg-name="FoxLife" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_LIFE.png" group-title="Fox MEDIA",FoxLife
+https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/215
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_CRIME_HD.png" group-title="Fox MEDIA",Fox Crime
+https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/216
+#EXTINF:-1 tvg-id="" tvg-name="Fox Rewayat HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-REWAYAT.png" group-title="Fox MEDIA",Fox Rewayat HD
+https://airmaxtv.online:25463/airmaxtvpro66/pfusrAj72KY4/217
+
+
+
+#EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (360p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (480p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (Auto)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 
@@ -187,6 +199,13 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
 #EXTINF:-1 tvg-id="Spacetoon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SPACE-TOON-1.png" group-title="Kids",Spacetoon (720p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
+#EXTINF:-1 tvg-id="Spacetoon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SPACE-TOON-1.png" group-title="Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+#EXTINF:-1 tvg-id="Spacetoon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SPACE-TOON-1.png" group-title="Kids",Spacetoon (Auto)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-CARTOON-NETWORK.png" group-title="Kids",CN Arabic (144p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_9.m3u8
 #EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-CARTOON-NETWORK.png" group-title="Kids",CN Arabic (252p)
@@ -197,10 +216,35 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_5.m3u8
 #EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-CARTOON-NETWORK.png" group-title="Kids",CN Arabic (468p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-#EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-CARTOON-NETWORK.png" group-title="Kids",CN Arabic (576p)
+#EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CARTOON_NETWORK.arabic.png" group-title="Kids",CN Arabic (576p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_3.m3u8
-#EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-CARTOON-NETWORK.png" group-title="Kids",CN Arabic (720p)
+#EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CARTOON_NETWORK.arabic.png" group-title="Kids",CN Arabic (720p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
+#EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CARTOON_NETWORK.arabic.png" group-title="Kids",CN Arabic (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+#EXTINF:-1 tvg-id="CN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CARTOON_NETWORK.arabic.png" group-title="Kids",CN Arabic (Auto)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/tijihd.png" group-title="Kids",Tiji FR (144p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_9.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/tijihd.png" group-title="Kids",Tiji FR (252p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_10.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/tijihd.png" group-title="Kids",Tiji FR (288p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_6.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/tijihd.png" group-title="Kids",Tiji FR (360p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_5.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/tijihd.png" group-title="Kids",Tiji FR (468p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_4.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TIJI_HD.png" group-title="Kids",Tiji FR (576p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_3.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TIJI_HD.png" group-title="Kids",Tiji FR (720p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_2.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TIJI_HD.png" group-title="Kids",Tiji FR (1080p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TIJI_HD.png" group-title="Kids",Tiji FR (Auto)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
 
 
@@ -252,6 +296,27 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507492&extensi
 
 
 
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (144p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_9.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (252p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_10.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (288p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_6.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (360p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_5.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (468p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_3.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (576p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_3.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (720p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (Auto)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (240p)
 https://live.3cd.io/v1/broadcast/mtv/tracks-v6a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (360p)
@@ -288,11 +353,279 @@ http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.rtmp
 
 
 
-#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (180p)
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="News",CGTN Arabic (180p)
 https://livear.cgtn.com/200a/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (360p)
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="News",CGTN Arabic (360p)
 https://livear.cgtn.com/500a/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (720p)
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="News",CGTN Arabic (720p)
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="Drama",CGTN Arabic (Auto)
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="News",CGTN Arabic (Auto)
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (144p)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686664680/ei/iCGIZImbHuSh_tcPr7SDgAg/ip/3.129.111.220/id/8BZpOolYLUA.5/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/hls_chunk_host/rr1---sn-uxgg5oxu-cxts.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B_tQbDWkPzZJ1AssAEuG-4XmAohKqP7IyTkkDw/vprv/1/playlist_type/DVR/initcwndbps/256250/mh/ad/mip/85.112.86.38/mm/44/mn/sn-uxgg5oxu-cxts/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393,51000011/mt/1686642769/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhAMR08GkGbFQ7_6x8JCx-b2vsixxu90exksqclzUYQ0VLAiEA-DXjyf_fRjnmHzjl_-PNWO_Zzi25zJXnurkOgZCiB6s%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgcBq8bi1dLKBgzR5XHFPz2z3PH-HDJfi9TiJmJ30ebtoCIQDRvWQwMczLm3no_WxtaI70z9jNRVvq8LaoYN_3m8KtSQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (240p)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686664680/ei/iCGIZImbHuSh_tcPr7SDgAg/ip/3.129.111.220/id/8BZpOolYLUA.5/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D133/hls_chunk_host/rr1---sn-uxgg5oxu-cxts.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B_tQbDWkPzZJ1AssAEuG-4XmAohKqP7IyTkkDw/vprv/1/playlist_type/DVR/initcwndbps/256250/mh/ad/mip/85.112.86.38/mm/44/mn/sn-uxgg5oxu-cxts/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393,51000011/mt/1686642769/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAJZbY_g7KAqrpVVGgp7gYmvyNEAsowAVKH5Hu0qdJALHAiBleTLXAE88Cz2GHE3Dx0V1i9NhHEq-0FExmNQdBqi07w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgFIL4fbSLXdshUuRSwlCC9DwXTNjmNHa2Mm2SQIJTOHQCIGEm78PhPHdYYsmtkn3Tq9rZ1xiqkkixNIgpUNzoD2rF/playlist/index.m3u8
+#EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (360p)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686664680/ei/iCGIZImbHuSh_tcPr7SDgAg/ip/3.129.111.220/id/8BZpOolYLUA.5/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/rr1---sn-uxgg5oxu-cxts.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B_tQbDWkPzZJ1AssAEuG-4XmAohKqP7IyTkkDw/vprv/1/playlist_type/DVR/initcwndbps/256250/mh/ad/mip/85.112.86.38/mm/44/mn/sn-uxgg5oxu-cxts/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393,51000011/mt/1686642769/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhALRJrSltl_eWLVPBnJ1DSGDSAtIaSFOfLWc5kEijsStcAiEAkLdftHLQtIghuy8gUDpu-yQUBoNriv7gelNFyJCogeY%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANTdxLKL47I1OgwABtOFks_VY0Xzc1dxDEHm4bzix9GgAiBQofeVdYRCT2RbU8HlJJLD8VtWP22AARpihXaauVSTzg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (480p)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686664680/ei/iCGIZImbHuSh_tcPr7SDgAg/ip/3.129.111.220/id/8BZpOolYLUA.5/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr1---sn-uxgg5oxu-cxts.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B_tQbDWkPzZJ1AssAEuG-4XmAohKqP7IyTkkDw/vprv/1/playlist_type/DVR/initcwndbps/256250/mh/ad/mip/85.112.86.38/mm/44/mn/sn-uxgg5oxu-cxts/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393,51000011/mt/1686642769/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhAJ9y_fCnTx8T4guD4q2DdflzJ-rSM5k-7Ykxl07KeGpbAiEAkc6gZL-zkir_aBfd7Iyt6icpGRIXXJk_dBy2EUod6Tk%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAO8F1WQMzr6UbKZRkm9s_S5zAYS9aw_GpkzMPLIsOZrYAiEAn-x0Y5j3N28zw4JqvhuaIOAvtOox0Ds8Jgfu9adWWbk%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (720p)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686664680/ei/iCGIZImbHuSh_tcPr7SDgAg/ip/3.129.111.220/id/8BZpOolYLUA.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-uxgg5oxu-cxts.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B_tQbDWkPzZJ1AssAEuG-4XmAohKqP7IyTkkDw/vprv/1/playlist_type/DVR/initcwndbps/256250/mh/ad/mip/85.112.86.38/mm/44/mn/sn-uxgg5oxu-cxts/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393,51000011/mt/1686642769/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgX6NAT3BO-1X8OuZ8KMexC6uykmB-Bm0HwAgogdI_D5ICIFfsFGg5ss0oBb_tlfKqNTYwhbjzs2XJgYAnWec359Fl/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhALZASpowW3KshWavmzG_676LLMQEqUIP4D1wMsRKdRmQAiEA38DpZYOMYSCa1ga8Zfbcgpa12B1-yRhzyrU4_F2b-qY%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (1080p)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686664680/ei/iCGIZImbHuSh_tcPr7SDgAg/ip/3.129.111.220/id/8BZpOolYLUA.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-uxgg5oxu-cxts.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B_tQbDWkPzZJ1AssAEuG-4XmAohKqP7IyTkkDw/vprv/1/playlist_type/DVR/initcwndbps/256250/mh/ad/mip/85.112.86.38/mm/44/mn/sn-uxgg5oxu-cxts/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393,51000011/mt/1686642769/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAKtFwfbjiQxYPGG_KtLYBUpKaHX4h6ACG7J79u82_XOBAiAnVkEkob1wzJtN4h5ug681aXZwLneZzS0-UzKBzH1B6Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgVXJvASK9TMcfxJCLt2erg8U41kQf9YZy-nNUPcjkzPwCICX0Ehm1dPLjIFTSiiOdv-eBzP1FpEg20JxvR0iZ1hqt/playlist/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24enfrancais.png" group-title="News",France 24 French
+http://81.94.196.204/tsstreamer/France24_HD.ts
+
+
+
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc1.png" group-title="MBC Group",MBC 1 (144p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc1.png" group-title="MBC Group",MBC 1 (252p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc1.png" group-title="MBC Group",MBC 1 (288p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc1.png" group-title="MBC Group",MBC 1 (360p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc1.png" group-title="MBC Group",MBC 1 (468p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (576p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (720p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (1080p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (Auto)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (144p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (252p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (288p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (360p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc3.png" group-title="MBC Group",MBC 3 (468p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_3_HD.png" group-title="MBC Group",MBC 3 (576p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_3_HD.png" group-title="MBC Group",MBC 3 (720p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_3_HD.png" group-title="MBC Group",MBC 3 (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_3_HD.png" group-title="MBC Group",MBC 3 (Auto)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc4.png" group-title="MBC Group",MBC 4 (144p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_9.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc4.png" group-title="MBC Group",MBC 4 (252p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc4.png" group-title="MBC Group",MBC 4 (288p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc4.png" group-title="MBC Group",MBC 4 (360p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc4.png" group-title="MBC Group",MBC 4 (468p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_4_HD.png" group-title="MBC Group",MBC 4 (576p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_4_HD.png" group-title="MBC Group",MBC 4 (720p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_4_HD.png" group-title="MBC Group",MBC 4 (1080p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_4_HD.png" group-title="MBC Group",MBC 4 (Auto)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-5.jpeg" group-title="MBC Group",MBC 5 (144p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-5.jpeg" group-title="MBC Group",MBC 5 (252p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-5.jpeg" group-title="MBC Group",MBC 5 (288p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-5.jpeg" group-title="MBC Group",MBC 5 (360p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-5.jpeg" group-title="MBC Group",MBC 5 (468p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_5_HD.png" group-title="MBC Group",MBC 5 (576p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_5_HD.png" group-title="MBC Group",MBC 5 (720p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_5_HD.png" group-title="MBC Group",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_5_HD.png" group-title="MBC Group",MBC 5 (Auto)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcbollywood.png" group-title="MBC Group",MBC Bollywood (144p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_9.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcbollywood.png" group-title="MBC Group",MBC Bollywood (252p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcbollywood.png" group-title="MBC Group",MBC Bollywood (288p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcbollywood.png" group-title="MBC Group",MBC Bollywood (360p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcbollywood.png" group-title="MBC Group",MBC Bollywood (468p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_BOLLYWOOD_HD.png" group-title="MBC Group",MBC Bollywood (576p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_BOLLYWOOD_HD.png" group-title="MBC Group",MBC Bollywood (720p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_BOLLYWOOD_HD.png" group-title="MBC Group",MBC Bollywood (1080p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_BOLLYWOOD_HD.png" group-title="MBC Group",MBC Bollywood (Auto)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcdrama.png" group-title="MBC Group",MBC Drama (252p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcdrama.png" group-title="MBC Group",MBC Drama (288p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_7.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcdrama.png" group-title="MBC Group",MBC Drama (360p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcdrama.png" group-title="MBC Group",MBC Drama (468p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_HD.png" group-title="MBC Group",MBC Drama (576p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_HD.png" group-title="MBC Group",MBC Drama (720p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_9.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_HD.png" group-title="MBC Group",MBC Drama (1080p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_HD.png" group-title="MBC Group",MBC Drama (Auto)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (144p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_9.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (252p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (288p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (360p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (468p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (576p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (720p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (Auto)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (144p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (252p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (288p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (360p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (468p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (576p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (720p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (Auto)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (252p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_27.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (288p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_26.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (360p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_25.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (468p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_24.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (576p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_23.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (720p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_21.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (1080p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_20.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (Auto)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (144p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (252p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (288p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (360p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (468p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (576p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (720p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (1080p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (Auto)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC--PERSIA.png" group-title="MBC Group",MBC Persia (144p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC--PERSIA.png" group-title="MBC Group",MBC Persia (252p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC--PERSIA.png" group-title="MBC Group",MBC Persia (288p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC--PERSIA.png" group-title="MBC Group",MBC Persia (360p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC--PERSIA.png" group-title="MBC Group",MBC Persia (468p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_PERSIA_HD.png" group-title="MBC Group",MBC Persia (576p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_PERSIA_HD.png" group-title="MBC Group",MBC Persia (720p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_PERSIA_HD.png" group-title="MBC Group",MBC Persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_PERSIA_HD.png" group-title="MBC Group",MBC Persia (Auto)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-DRAMA-PLUS.jpg" group-title="MBC Group",MBC Plus Drama (144p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_10.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-DRAMA-PLUS.jpg" group-title="MBC Group",MBC Plus Drama (252p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-DRAMA-PLUS.jpg" group-title="MBC Group",MBC Plus Drama (288p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_6.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-DRAMA-PLUS.jpg" group-title="MBC Group",MBC Plus Drama (360p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_5.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-DRAMA-PLUS.jpg" group-title="MBC Group",MBC Plus Drama (468p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_4.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_PLUS_HD.png" group-title="MBC Group",MBC Plus Drama (576p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_PLUS_HD.png" group-title="MBC Group",MBC Plus Drama (720p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_PLUS_HD.png" group-title="MBC Group",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_PLUS_HD.png" group-title="MBC Group",MBC Plus Drama (Auto)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
