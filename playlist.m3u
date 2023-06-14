@@ -718,13 +718,11 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist.m3
 
 
 
-#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six (Auto)
-http://45.143.222.51:8070/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297008?token=ShUNAEFcElxECA0BCwBVVwNTU1JQAAZbAQdUVgQBB1FVVldQU1YBBFAaGEZKTREDAFhpWAUVDwsPBlNSD05DFkJSFz5bUBJcRAoBXQkNVURNF0JYDFIXAwcHW1QAUVBVAA5JQ0JdVERcGgVXCQ9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLVFJRFxoTAlhAV0JDGkANQC8vExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAxYcRAtZTDtaVg0IBFZCWA5ZRhsME1tQB0BNQVxYCwhGW0I5FlFQRgMbV1VRAwYTHA==
-#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six Backup m3u8 (Auto)
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297008.m3u8
-#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six Backup ts (Auto)
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297008.ts
-#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six Backup rtmp (Auto)
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297008.rtmp
-#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six Backup main (Auto)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297008
+#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six m3u8 (Auto)
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/297008.m3u8
+#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six ts (Auto)
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/297008.ts
+#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six rtmp (Auto)
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/297008.rtmp
+#EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six main (Auto)
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297008
