@@ -785,3 +785,26 @@ http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/297008.ts
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/297008.rtmp
 #EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Al Kass",Al Kass Six main (Auto)
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297008
+
+
+
+#EXTINF:-1 tvg-id="Canal Plus" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",Canal+ HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507468&extension=ts&play_token=cLKcfZWfOe
+#EXTINF:-1 tvg-id="Canal Plus Cinema" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="Canal+ MEDIA",Canal+ Cinema HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507441&extension=ts&play_token=A6IPSLxE5t
+#EXTINF:-1 tvg-id="Canal Plus Series" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusseries.png" group-title="Canal+ MEDIA",Canal+ Series HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507438&extension=ts&play_token=6ze8Qufpta
+#EXTINF:-1 tvg-id="Canal Plus Family" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamily.png" group-title="Canal+ MEDIA",Canal+ Family HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507439&extension=ts&play_token=idba8I20nz
+#EXTINF:-1 tvg-id="Canal Plus Grand Ecran" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/LCanal+Grand-%c3%89cran.png" group-title="Canal+ MEDIA",Canal+ Grand Ecran HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=863798&extension=ts&play_token=ksUazNtdvJ
+#EXTINF:-1 tvg-id="Canal Plus Kids" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Kids.png" group-title="Canal+ MEDIA",Canal+ Kids HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=719107&extension=ts&play_token=VNW30pBDeD
+#EXTINF:-1 tvg-id="Canal Plus Sport" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport.png" group-title="Canal+ MEDIA",Canal+ Sport HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507437&extension=ts&play_token=2rgZ0jFpTT
+#EXTINF:-1 tvg-id="Canal Plus Foot" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-FOOT.png" group-title="Canal+ MEDIA",Canal+ Foot HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1206556&extension=ts&play_token=th29xHAgYt
+#EXTINF:-1 tvg-id="Canal Plus 360" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-360.png" group-title="Canal+ MEDIA",Canal+ 360 HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1206555&extension=ts&play_token=1vDJT83lCb
+#EXTINF:-1 tvg-id="Canal Plus TOP 14" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+TOP14.png" group-title="Canal+ MEDIA",Canal+ TOP 14 HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507395&extension=ts&play_token=MzfMdtzjqq
