@@ -381,8 +381,37 @@ https://youtube-dl-online.angelokh.repl.co/france24ar/all
 
 
 
-#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24enfrancais.png" group-title="News",France 24 French
-http://81.94.196.204/tsstreamer/France24_HD.ts
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (144p)
+https://youtube-dl-online.angelokh.repl.co/france24fr/144
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (240p)
+https://youtube-dl-online.angelokh.repl.co/france24fr/240
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (360p)
+https://youtube-dl-online.angelokh.repl.co/france24fr/360
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (480p)
+https://youtube-dl-online.angelokh.repl.co/france24fr/480
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (720p)
+https://youtube-dl-online.angelokh.repl.co/france24fr/720
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (1080p)
+https://youtube-dl-online.angelokh.repl.co/france24fr/1080
+#EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (Auto)
+https://youtube-dl-online.angelokh.repl.co/france24fr/all
+
+
+
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (144p)
+https://youtube-dl-online.angelokh.repl.co/france24en/144
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (240p)
+https://youtube-dl-online.angelokh.repl.co/france24en/240
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (360p)
+https://youtube-dl-online.angelokh.repl.co/france24en/360
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (480p)
+https://youtube-dl-online.angelokh.repl.co/france24en/480
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (720p)
+https://youtube-dl-online.angelokh.repl.co/france24en/720
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (1080p)
+https://youtube-dl-online.angelokh.repl.co/france24en/1080
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (Auto)
+https://youtube-dl-online.angelokh.repl.co/france24en/all
 
 
 
