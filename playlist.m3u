@@ -1688,7 +1688,7 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864617&extensi
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864618&extension=ts&play_token=biwnyj6R4o
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP",BEIN SPORTS 1 HD MAC
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864622&extension=ts&play_token=bbADpuclKr
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 2 HD MAC
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP",BEIN SPORTS 2 HD MAC
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864623&extension=ts&play_token=61K1onXOIv
 #EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP",BEIN SPORTS 4 HD MAC
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864624&extension=ts&play_token=sBC87XdWS1
