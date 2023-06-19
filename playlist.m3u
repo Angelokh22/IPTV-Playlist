@@ -1915,11 +1915,3 @@ http://legendtvs.com:80/aziz/12345/654399
 http://legendtvs.com:80/aziz/12345/654400
 #EXTINF:-1 tvg-id="SSC SPORT 5 FHD" tvg-name="" tvg-logo="http://legendjordan.net:80/images/0TdMb58gglJTE7qWUhbtzM-juMiDpDl8Ow4l0C0upi-rQheV2bv1boDnKjW3DXvuKyz2JevMNgVtOm_zxe38Eg.png" group-title="Legend TVs SSC",SSC SPORT 5 FHD
 http://legendtvs.com:80/aziz/12345/654401
-
-
-
-
-#EXTINF:-1 group-title="Test Channels",Test SSC 2
-https://ssc-2-ak.akamaized.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
-#EXTINF:-1 group-title="Test Channels",Test SSC 2 (2)
-https://ssc-2-ak.akamaized.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index_video_19_0_init.mp4?m=1630843932
