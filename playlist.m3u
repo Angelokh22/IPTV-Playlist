@@ -1911,3 +1911,48 @@ http://legendtvs.com:80/aziz/12345/654399
 http://legendtvs.com:80/aziz/12345/654400
 #EXTINF:-1 tvg-id="SSC SPORT 5 FHD" tvg-name="" tvg-logo="http://legendjordan.net:80/images/0TdMb58gglJTE7qWUhbtzM-juMiDpDl8Ow4l0C0upi-rQheV2bv1boDnKjW3DXvuKyz2JevMNgVtOm_zxe38Eg.png" group-title="Legend TVs SSC",SSC SPORT 5 FHD
 http://legendtvs.com:80/aziz/12345/654401
+
+
+
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 1 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 1 HD
+http://pprotv.com:80/fofo777/fofo777/111663
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 2 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 2 HD
+http://pprotv.com:80/fofo777/fofo777/111664
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 3 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 3 HD
+http://pprotv.com:80/fofo777/fofo777/111665
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 4 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 4 HD
+http://pprotv.com:80/fofo777/fofo777/158353
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 5 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 5 HD
+http://pprotv.com:80/fofo777/fofo777/158354
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 5 SD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 5 SD
+http://pprotv.com:80/fofo777/fofo777/111667
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 1 SD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 1 SD
+http://pprotv.com:80/fofo777/fofo777/183139
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 2 SD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 2 SD
+http://pprotv.com:80/fofo777/fofo777/183140
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC SPORTS EXTRA 1 4K" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC SPORTS EXTRA 1 4K
+http://pprotv.com:80/fofo777/fofo777/111669
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC SPORTS EXTRA 1 SD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC SPORTS EXTRA 1 SD
+http://pprotv.com:80/fofo777/fofo777/111670
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC SPORTS EXTRA 2 4K" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC SPORTS EXTRA 2 4K
+http://pprotv.com:80/fofo777/fofo777/111671
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC SPORTS EXTRA 2 SD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC SPORTS EXTRA 2 SD
+http://pprotv.com:80/fofo777/fofo777/111672
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 1 4K" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 1 4K
+http://pprotv.com:80/fofo777/fofo777/158350
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 2 4K" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 2 4K
+http://pprotv.com:80/fofo777/fofo777/158351
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 3 4K" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 3 4K
+http://pprotv.com:80/fofo777/fofo777/158352
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 4 4k" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 4 4k
+http://pprotv.com:80/fofo777/fofo777/111666
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC 5 4K" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC 5 4K
+http://pprotv.com:80/fofo777/fofo777/111668
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC SPORTS EXTRA 1 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC SPORTS EXTRA 1 HD
+http://pprotv.com:80/fofo777/fofo777/158355
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC SPORTS EXTRA 2 HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC SPORTS EXTRA 2 HD
+http://pprotv.com:80/fofo777/fofo777/158897
+#EXTINF:-1 tvg-id="RAB SPORT | SSC SPORTS EXTRA 3 4k " tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",RAB SPORT | SSC SPORTS EXTRA 3 4k 
+http://pprotv.com:80/fofo777/fofo777/175029
+#EXTINF:-1 tvg-id="ARAB SPORT | SSC News HD" tvg-name="" tvg-logo="http://www.rockets.ws/logo/arabsport.png" group-title="PPRO TV SSC",ARAB SPORT | SSC News HD
+http://pprotv.com:80/fofo777/fofo777/175030
