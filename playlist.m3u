@@ -1707,3 +1707,8 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864619&extensi
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864620&extension=ts&play_token=D8ULldeU4J
 #EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP",BEIN SPORTS 3 HD MAC
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864621&extension=ts&play_token=6NXUFXM9Lj
+
+
+
+#EXTINF:-1 group-title="Test Channels",Test SSC 2
+https://ssc-2-ak.akamaized.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
