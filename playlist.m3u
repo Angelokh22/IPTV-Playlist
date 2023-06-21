@@ -373,8 +373,25 @@ http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.rtmp
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International Backup
 http://148.251.152.43:8080/egypt/tv/133
 
-#EXTINF:-1 tvg-id="LB2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f37tXOU_CqcOWXwUM1ov0roR7xmJKdX5euzbyPI_S3Q3DYnRT7pIkeRstIhFAgvFkxc&usqp=CAU" group-title="Lebanon",LB2 (360p)
-https://cllive.itworkscdn.net/lbcdramalive/token=nva=1686857481~dirs=1~hash=0b78134e76afaacf14ab7/drama/lb2_360p_chunks.m3u8
+
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (360p)
+https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_360p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (480p)
+https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_480p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (720p)
+https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (Auto)
+https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
+
+
+#EXTINF:-1 tvg-id="LB2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f37tXOU_CqcOWXwUM1ov0roR7xmJKdX5euzbyPI_S3Q3DYnRT7pIkeRstIhFAgvFkxc&usqp=CAU" group-title="Lebanon",LB2  (360p)
+https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2eae52aca2f1eb3e17/drama/lb2_360p_chunks.m3u8
+#EXTINF:-1 tvg-id="LB2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f37tXOU_CqcOWXwUM1ov0roR7xmJKdX5euzbyPI_S3Q3DYnRT7pIkeRstIhFAgvFkxc&usqp=CAU" group-title="Lebanon",LB2 (480p)
+https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2eae52aca2f1eb3e17/drama/lb2_480p_chunks.m3u8
+#EXTINF:-1 tvg-id="LB2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f37tXOU_CqcOWXwUM1ov0roR7xmJKdX5euzbyPI_S3Q3DYnRT7pIkeRstIhFAgvFkxc&usqp=CAU" group-title="Lebanon",LB2 (1080p)
+https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2eae52aca2f1eb3e17/drama/lb2_source_chunks.m3u8
+#EXTINF:-1 tvg-id="LB2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f37tXOU_CqcOWXwUM1ov0roR7xmJKdX5euzbyPI_S3Q3DYnRT7pIkeRstIhFAgvFkxc&usqp=CAU" group-title="Lebanon",LB2 (Auto)
+https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2eae52aca2f1eb3e17/drama/playlist.m3u8
 
 
 
