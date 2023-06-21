@@ -29,15 +29,19 @@ http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/11372
 http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/38077
 #EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="Documentary",Discovery Turbo UK
 http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/14588
+#EXTINF:-1 tvg-id="OSN Discovery HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoverychannel.png" group-title="Documentary",OSN Discovery HD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=187
+#EXTINF:-1 tvg-id="OSN Discovery Science HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="Documentary",OSN Discovery Science HD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=186
+
+
+
 #EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/Animal_Planet.png" group-title="Documentary",Animal Planet UK
 http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/14590
 #EXTINF:-1 tvg-id="Animal Planet AE" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",OSN Animal Planet AE
 http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/20195
 #EXTINF:-1 tvg-id="Animal Planet CA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet CA
 http://iptvworld.nl:2095/gT0PeBdt/pj8wFFhH/170103
-
-
-
 #EXTINF:-1 tvg-id="Animal Planet US" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet US (Hight)
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/animal%20planet/tc-animal-planet-hight.m3u8
 #EXTINF:-1 tvg-id="Animal Planet US" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet US (Medium)
@@ -55,11 +59,11 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 https://youtube-dl-online.angelokh.repl.co/airmax?id=10
 #EXTINF:-1 tvg-id="" tvg-name=" BEIN SPORTS PREMIUM 2 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM2.png" group-title="BEIN SPORT VIP",BEIN SPORTS PREMIUM 2 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=11
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS PREMIUM 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM3.png" group-title="BEIN SPORT VIP",BEIN_SPORTS PREMIUM 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS PREMIUM 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM3.png" group-title="BEIN SPORT VIP",BEIN SPORTS PREMIUM 3 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=12
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS 1 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/beinsport1.png" group-title="BEIN SPORT VIP",BEIN_SPORTS 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS 1 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/beinsport1.png" group-title="BEIN SPORT VIP",BEIN SPORTS 1 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=13
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS 2 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT2.png" group-title="BEIN SPORT VIP",BEIN_SPORTS 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS 2 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT2.png" group-title="BEIN SPORT VIP",BEIN SPORTS 2 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=14
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT3.png" group-title="BEIN SPORT VIP",BEIN SPORTS 3 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=15
@@ -71,10 +75,8 @@ https://youtube-dl-online.angelokh.repl.co/airmax?id=17
 https://youtube-dl-online.angelokh.repl.co/airmax?id=18
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="BEIN SPORT VIP",BEIN SPORTS 7 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=19
-#EXTINF:-1 tvg-id="OSN Discovery Science HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="Documentary",OSN Discovery Science HD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=186
-#EXTINF:-1 tvg-id="OSN Discovery HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoverychannel.png" group-title="Documentary",OSN Discovery HD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=187
+
+
 
 #EXTINF:-1 tvg-id="Fox Movies" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-MOVIES.png" group-title="Fox MEDIA",Fox Movies
 https://youtube-dl-online.angelokh.repl.co/airmax?id=220
@@ -279,6 +281,9 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=550768&extension=
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=550763&extension=ts&play_token=xdbt7BgLik683150
 #EXTINF:-1 tvg-id="HBO Cinemax" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CINEMAX_HD.png" group-title="Movie",HBO Cinemax
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=550727&extension=ts&play_token=xdbt7BgLik683161
+
+
+
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_1.png" group-title="Sports",Arena Sport 1
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161931&extension=ts&play_token=xdbt7BgLik
 #EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_2.png" group-title="Sports",Arena Sport 2
@@ -304,8 +309,14 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=726585&extension=
 
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter HD
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=506618&extension=ts&play_token=IzDUh6iSe1
+
+
+
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo FHD
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=506490&extension=ts&play_token=gVjHQRa5BD
+
+
+
 #EXTINF:-1 tvg-id="gulli fr" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/gullihd.png" group-title="Kids",GULLI FR FHD
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=506501&extension=ts&play_token=Vs7mmomlq9
 #EXTINF:-1 tvg-id="gulli fr" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/gullihd.png" group-title="Kids",GULLI FR HD
@@ -350,6 +361,9 @@ https://live.3cd.io/v1/broadcast/mtv/tracks-v2a1/mono.m3u8
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (Auto)
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (240p)
 https://live.3cd.io/v1/broadcast/one/tracks-v6a1/mono.m3u8
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (360p)
@@ -357,10 +371,16 @@ https://live.3cd.io/v1/broadcast/one/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (Auto)
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="OTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OTV-.png" group-title="Lebanon",OTV Lebanon (720p)
+
+
 
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="Lebanon",TL Lebanon (720p)
+
+
 
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International m3u8
@@ -370,8 +390,11 @@ http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.ts
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International rtmp
 http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.rtmp
 
+
+
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International Backup
 http://148.251.152.43:8080/egypt/tv/133
+
 
 
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (360p)
@@ -808,925 +831,6 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297008
 
 
 
-#EXTINF:-1 tvg-id="CANAL+ 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/CANALHD.png" group-title="Canal+ MEDIA",CANAL+ 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526135&extension=ts&play_token=pmPPDXgfNL
-#EXTINF:-1 tvg-id="CANAL+ CINEMA 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_cinema.png" group-title="Canal+ MEDIA",CANAL+ CINEMA 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526134&extension=ts&play_token=mJ0tDatiJ
-#EXTINF:-1 tvg-id="CANAL+ FAMILY 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Family_PL.png" group-title="Canal+ MEDIA",CANAL+ FAMILY 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526132&extension=ts&play_token=H383NS7sI4
-#EXTINF:-1 tvg-id="CANAL+ SERIES 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/canal_series.png" group-title="Canal+ MEDIA",CANAL+ SERIES 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526131&extension=ts&play_token=hBTnKhbolk
-#EXTINF:-1 tvg-id="CANAL+ SPORT 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/CANALSPORT-1.png" group-title="Canal+ MEDIA",CANAL+ SPORT 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526130&extension=ts&play_token=zBhwvMJXqZ
-#EXTINF:-1 tvg-id="CANAL+ PL 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-PREMIER-LEAGUE.png" group-title="Canal+ MEDIA",CANAL+ PL 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526129&extension=ts&play_token=mfzqk3d4QL
-#EXTINF:-1 tvg-id="CANAL+ MOTOGP 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTOGP.png" group-title="Canal+ MEDIA",CANAL+ MOTOGP 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526128&extension=ts&play_token=7g5se2fcAj
-#EXTINF:-1 tvg-id="CANAL+ LIGUE 1 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-LIGUE1.jpeg" group-title="Canal+ MEDIA",CANAL+ LIGUE 1 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526127&extension=ts&play_token=vCYMmDh5rH
-#EXTINF:-1 tvg-id="CANAL+ FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="Canal+ MEDIA",CANAL+ FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506635&extension=ts&play_token=SycJGSg3yq
-#EXTINF:-1 tvg-id="CANAL+ FOOT FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-PLUS-FOOT.png" group-title="Canal+ MEDIA",CANAL+ FOOT FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002837&extension=ts&play_token=Z1aY2RLjt4
-#EXTINF:-1 tvg-id="CANAL+ 360 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+SPORT360.png" group-title="Canal+ MEDIA",CANAL+ 360 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002841&extension=ts&play_token=1vVL04S1jo
-#EXTINF:-1 tvg-id="CANAL+ CINEMA FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_cinema.png" group-title="Canal+ MEDIA",CANAL+ CINEMA FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506612&extension=ts&play_token=XHjamx4InB
-#EXTINF:-1 tvg-id="CANAL+ FAMILY FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Family_PL.png" group-title="Canal+ MEDIA",CANAL+ FAMILY FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506611&extension=ts&play_token=Y5R9L3wU2l
-#EXTINF:-1 tvg-id="CANAL+ GRAND ECRAN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/LCanal+Grand-%c3%89cran.png" group-title="Canal+ MEDIA",CANAL+ GRAND ECRAN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=863794&extension=ts&play_token=8yMZXWXv3
-#EXTINF:-1 tvg-id="CANAL+ SERIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/canal_series.png" group-title="Canal+ MEDIA",CANAL+ SERIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506609&extension=ts&play_token=QQQ0WGH5Gi
-#EXTINF:-1 tvg-id="CANAL+ KIDS FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Kids.png" group-title="Canal+ MEDIA",CANAL+ KIDS FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=830359&extension=ts&play_token=mnoRtvvtvy
-#EXTINF:-1 tvg-id="CANAL+ DOC FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Docs.png" group-title="Canal+ MEDIA",CANAL+ DOC FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=830357&extension=ts&play_token=1auQJGS3PY
-#EXTINF:-1 tvg-id="CANAL+ SPORT FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/CANALSPORT-1.png" group-title="Canal+ MEDIA",CANAL+ SPORT FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506557&extension=ts&play_token=EwWflvCqNL
-#EXTINF:-1 tvg-id="CANAL+ TOP14 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport.png" group-title="Canal+ MEDIA",CANAL+ TOP14 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506558&extension=ts&play_token=0aV7uap2JT
-#EXTINF:-1 tvg-id="CANAL+ PREMIER LEAGUE FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd-lichoridas.png" group-title="Canal+ MEDIA",CANAL+ PREMIER LEAGUE FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506556&extension=ts&play_token=zID8Mq60wO
-#EXTINF:-1 tvg-id="CANAL+ LIGUE1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport3hd.png" group-title="Canal+ MEDIA",CANAL+ LIGUE1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506554&extension=ts&play_token=FlX6HXvDWD
-#EXTINF:-1 tvg-id="CANAL+ LIGUE1 FHD (BK)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport.png" group-title="Canal+ MEDIA",CANAL+ LIGUE1 FHD (BK) MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506555&extension=ts&play_token=jlUi6QOiRa
-#EXTINF:-1 tvg-id="CANAL+ FORMULA1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport4hd.png" group-title="Canal+ MEDIA",CANAL+ FORMULA1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506553&extension=ts&play_token=FJngAHNDRS
-#EXTINF:-1 tvg-id="CANAL J FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-J-FHD.png" group-title="Canal+ MEDIA",CANAL J FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506506&extension=ts&play_token=z7i3FoqY0d
-#EXTINF:-1 tvg-id="CANAL+ HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplushd.png" group-title="Canal+ MEDIA",CANAL+ HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507468&extension=ts&play_token=tBJAZ3IFHc
-#EXTINF:-1 tvg-id="CANAL+ CINEMA HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="Canal+ MEDIA",CANAL+ CINEMA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507441&extension=ts&play_token=A9ZV4leJcP
-#EXTINF:-1 tvg-id="CANAL+ SERIES HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusseries.png" group-title="Canal+ MEDIA",CANAL+ SERIES HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507438&extension=ts&play_token=jlDQdgoeso
-#EXTINF:-1 tvg-id="CANAL+ FAMILY HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamilyhd.png" group-title="Canal+ MEDIA",CANAL+ FAMILY HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507439&extension=ts&play_token=0JPhkOUlKk
-#EXTINF:-1 tvg-id="CANAL+ GRAND ECRAN HD" tvg-name="" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" group-title="Canal+ MEDIA",CANAL+ GRAND ECRAN HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=863798&extension=ts&play_token=e3jpAkgRFj
-#EXTINF:-1 tvg-id="CANAL+ KIDS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ KIDS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=719107&extension=ts&play_token=a4Y04op57
-#EXTINF:-1 tvg-id="CANAL+ SPORT HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="Canal+ MEDIA",CANAL+ SPORT HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507437&extension=ts&play_token=rRkY6ETjNo
-#EXTINF:-1 tvg-id="CANAL+ FOOT HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-PLUS-FOOT.png" group-title="Canal+ MEDIA",CANAL+ FOOT HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1206556&extension=ts&play_token=umqdl22JKc
-#EXTINF:-1 tvg-id="CANAL+ 360 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+SPORT360.png" group-title="Canal+ MEDIA",CANAL+ 360 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1206555&extension=ts&play_token=rF4WFInuN
-#EXTINF:-1 tvg-id="CANAL+ TOP 14 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+TOP14.png" group-title="Canal+ MEDIA",CANAL+ TOP 14 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507395&extension=ts&play_token=fvMvu67Fr
-#EXTINF:-1 tvg-id="CANAL+ LIGUE1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-LIGUE1.jpeg" group-title="Canal+ MEDIA",CANAL+ LIGUE1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507393&extension=ts&play_token=CvyoQGM1dF
-#EXTINF:-1 tvg-id="CANAL+ MOTOGP HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTOGP.png" group-title="Canal+ MEDIA",CANAL+ MOTOGP HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507392&extension=ts&play_token=yStMfaBfOS
-#EXTINF:-1 tvg-id="CANAL+ PL HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/canalpluspremierleague.png" group-title="Canal+ MEDIA",CANAL+ PL HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507394&extension=ts&play_token=ourFsmUm3c
-#EXTINF:-1 tvg-id="CANAL+ DOCS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ DOCS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=719108&extension=ts&play_token=i34pPoDq0u
-#EXTINF:-1 tvg-id="CANAL+ DOCS LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusdokumenthd.png" group-title="Canal+ MEDIA",CANAL+ DOCS LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=719110&extension=ts&play_token=vOig5me3kk
-#EXTINF:-1 tvg-id="CANAL J HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canaljhd.png" group-title="Canal+ MEDIA",CANAL J HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507306&extension=ts&play_token=Iuj2DIt4t3
-#EXTINF:-1 tvg-id="CANAL+ LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507624&extension=ts&play_token=IzaI23hkCY
-#EXTINF:-1 tvg-id="CANAL+ CINEMA LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="Canal+ MEDIA",CANAL+ CINEMA LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507597&extension=ts&play_token=anbKb3ppZk
-#EXTINF:-1 tvg-id="CANAL+ KIDS LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-KIDS.png" group-title="Canal+ MEDIA",CANAL+ KIDS LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=719109&extension=ts&play_token=2n68C7OlBM
-#EXTINF:-1 tvg-id="CANAL+ SERIES LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusseries.png" group-title="Canal+ MEDIA",CANAL+ SERIES LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507594&extension=ts&play_token=9uybcQbVy
-#EXTINF:-1 tvg-id="CANAL+ FAMILY LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamily.png" group-title="Canal+ MEDIA",CANAL+ FAMILY LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507595&extension=ts&play_token=ocb5SMeKrG
-#EXTINF:-1 tvg-id="CANAL+ SPORT LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport.png" group-title="Canal+ MEDIA",CANAL+ SPORT LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507593&extension=ts&play_token=zPYpeaRVkd
-#EXTINF:-1 tvg-id="CANAL+ TOP 14 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+TOP14.png" group-title="Canal+ MEDIA",CANAL+ TOP 14 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507551&extension=ts&play_token=mY04jGW5Pq
-#EXTINF:-1 tvg-id="CANAL+ PL LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ PL LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507550&extension=ts&play_token=HguOyDoe8x
-#EXTINF:-1 tvg-id="CANAL+ LIGUE1 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-LIGUE1.jpeg" group-title="Canal+ MEDIA",CANAL+ LIGUE1 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507549&extension=ts&play_token=1U8pO0VwCW
-#EXTINF:-1 tvg-id="CANAL+ FORMULE1 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-FORMULA1.jpeg" group-title="Canal+ MEDIA",CANAL+ FORMULE1 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507547&extension=ts&play_token=7FMOjYey5u
-#EXTINF:-1 tvg-id="CANAL+ MOTOGP LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTOGP.png" group-title="Canal+ MEDIA",CANAL+ MOTOGP LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507548&extension=ts&play_token=ZDnv0f3WUG
-#EXTINF:-1 tvg-id="CANAL+ 360 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+SPORT360.png" group-title="Canal+ MEDIA",CANAL+ 360 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1071007&extension=ts&play_token=ShCmrAJQkO
-#EXTINF:-1 tvg-id="CANAL J LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalj.png" group-title="Canal+ MEDIA",CANAL J LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507495&extension=ts&play_token=kCkaH7rAW4
-#EXTINF:-1 tvg-id="CANAL+ CARAIBES HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-CARAIBES.jpg" group-title="Canal+ MEDIA",CANAL+ CARAIBES HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=920982&extension=ts&play_token=ZEoJtPwKwE
-#EXTINF:-1 tvg-id="CANAL+ SPORT 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="Canal+ MEDIA",CANAL+ SPORT 1 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355923&extension=ts&play_token=oeoxyuh2k
-#EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd.png" group-title="Canal+ MEDIA",CANAL+ SPORT 2 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355924&extension=ts&play_token=sbftRft0nU
-#EXTINF:-1 tvg-id="CANAL+ SPORT 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport3hd.png" group-title="Canal+ MEDIA",CANAL+ SPORT 3 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355925&extension=ts&play_token=A3VCKYSgIa
-#EXTINF:-1 tvg-id="CANAL+ SPORT 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport4hd.png" group-title="Canal+ MEDIA",CANAL+ SPORT 4 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355926&extension=ts&play_token=DWCCfcDNr0
-#EXTINF:-1 tvg-id="CANAL+ SPORT 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="Canal+ MEDIA",CANAL+ SPORT 5 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355927&extension=ts&play_token=QlMa2Lsk8j
-#EXTINF:-1 tvg-id="CANAL+ ACTION OUEST" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ ACTION OUEST MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355916&extension=ts&play_token=Y9ybjpHua3
-#EXTINF:-1 tvg-id="CANAL+ CENTR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ CENTR MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355917&extension=ts&play_token=VzxofKEVba
-#EXTINF:-1 tvg-id="CANAL+ CINEMA OUEST" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="Canal+ MEDIA",CANAL+ CINEMA OUEST MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355918&extension=ts&play_token=sTWRayRNQb
-#EXTINF:-1 tvg-id="CANAL+ COMEDIE OUEST" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ COMEDIE OUEST MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355919&extension=ts&play_token=LaVT9amgWs
-#EXTINF:-1 tvg-id="CANAL+ ELLES OUEST" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ ELLES OUEST MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355920&extension=ts&play_token=BGZVvzGeGK
-#EXTINF:-1 tvg-id="CANAL+ FAMILY OUEST" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamily.png" group-title="Canal+ MEDIA",CANAL+ FAMILY OUEST MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355921&extension=ts&play_token=hksSs3TjD2
-#EXTINF:-1 tvg-id="CANAL+ POP OUEST" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="Canal+ MEDIA",CANAL+ POP OUEST MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355922&extension=ts&play_token=1DaPoJ7HO
-#EXTINF:-1 tvg-id="CANAL SPORT 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/sport1.png" group-title="Canal+ MEDIA",CANAL SPORT 1 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=806715&extension=ts&play_token=umccg6QlbL
-#EXTINF:-1 tvg-id="CANAL 2 INTERNATIONAL" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL2-INTERNATIONAL.jpeg" group-title="Canal+ MEDIA",CANAL 2 INTERNATIONAL MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=355915&extension=ts&play_token=GD8Sgz2EuG
-#EXTINF:-1 tvg-id="CANAL+ MOTO GP FuLL HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTO-GP.png" group-title="Canal+ MEDIA",CANAL+ MOTO GP FuLL HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=921162&extension=ts&play_token=4BpfMBTiOV
-#EXTINF:-1 tvg-id="CANAL+ TOP 14 FuLL HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+TOP14.png" group-title="Canal+ MEDIA",CANAL+ TOP 14 FuLL HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=921161&extension=ts&play_token=FurZIKJPei
-#EXTINF:-1 tvg-id="CANAL 3 BURKINABÃ©" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/CANAL-3-BURKINAB%c3%a9.jpg" group-title="Canal+ MEDIA",CANAL 3 BURKINABÃ© MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=921142&extension=ts&play_token=Ho1WODKsty
-#EXTINF:-1 tvg-id="CANAL 3 BENIN" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-3-BENIN.png" group-title="Canal+ MEDIA",CANAL 3 BENIN MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=921137&extension=ts&play_token=bcvscFxNWs
-
-
-
-
-
-#EXTINF:-1 tvg-id="SSC NEWS 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC NEWS 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002804&extension=ts&play_token=m2SJ733T7t
-#EXTINF:-1 tvg-id="SSC NEWS HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC NEWS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002803&extension=ts&play_token=3WaGyTteeJ
-#EXTINF:-1 tvg-id="SSC 1 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002802&extension=ts&play_token=NZ3VoDTFE8
-#EXTINF:-1 tvg-id="SSC 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002801&extension=ts&play_token=V3H71Zom63
-#EXTINF:-1 tvg-id="SSC 1 SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002800&extension=ts&play_token=Te0f8jzjeu
-#EXTINF:-1 tvg-id="SSC 1" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002799&extension=ts&play_token=AYHe3ez5Kj
-#EXTINF:-1 tvg-id="SSC 1 EXTRA 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 EXTRA 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002798&extension=ts&play_token=eG86hUatqi
-#EXTINF:-1 tvg-id="SSC 1 EXTRA HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 EXTRA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002797&extension=ts&play_token=XGbsxDIqSE
-#EXTINF:-1 tvg-id="SSC 1 EXTRA SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 EXTRA SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002796&extension=ts&play_token=z0bYoUZ3Mq
-#EXTINF:-1 tvg-id="SSC 1 EXTRA" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 1 EXTRA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002795&extension=ts&play_token=1JYLe9UwaJ
-#EXTINF:-1 tvg-id="SSC 2 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002794&extension=ts&play_token=yRLmVCOE6
-#EXTINF:-1 tvg-id="SSC 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002793&extension=ts&play_token=qUOLrF5GZI
-#EXTINF:-1 tvg-id="SSC 2 SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002792&extension=ts&play_token=QalG5qTWJS
-#EXTINF:-1 tvg-id="SSC 2" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002791&extension=ts&play_token=olsPRYawS9
-#EXTINF:-1 tvg-id="SSC 2 EXTRA 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 EXTRA 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002790&extension=ts&play_token=jcc2EuSex7
-#EXTINF:-1 tvg-id="SSC 2 EXTRA HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 EXTRA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002789&extension=ts&play_token=OvfMIFA4yM
-#EXTINF:-1 tvg-id="SSC 2 EXTRA SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 EXTRA SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002788&extension=ts&play_token=eDSBG8XGr3
-#EXTINF:-1 tvg-id="SSC 2 EXTRA" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 2 EXTRA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002787&extension=ts&play_token=H75bXuz7ED
-#EXTINF:-1 tvg-id="SSC 3 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002786&extension=ts&play_token=ieEYQnQExG
-#EXTINF:-1 tvg-id="SSC 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002785&extension=ts&play_token=YoXyHpjBDa
-#EXTINF:-1 tvg-id="SSC 3 SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002784&extension=ts&play_token=6DtivJpAwM
-#EXTINF:-1 tvg-id="SSC 3" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002783&extension=ts&play_token=H5LM1dz2yF
-#EXTINF:-1 tvg-id="SSC 3 EXTRA 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 EXTRA 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002782&extension=ts&play_token=ehgBnrPPxn
-#EXTINF:-1 tvg-id="SSC 3 EXTRA HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 EXTRA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002781&extension=ts&play_token=atgHd22Dy
-#EXTINF:-1 tvg-id="SSC 3 EXTRA SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 3 EXTRA SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002780&extension=ts&play_token=5ROsHULisl
-#EXTINF:-1 tvg-id="SSC 4 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 4 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002779&extension=ts&play_token=94prP8j7Mj
-#EXTINF:-1 tvg-id="SSC 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002778&extension=ts&play_token=ka3yi1AXXl
-#EXTINF:-1 tvg-id="SSC 4 SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 4 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002777&extension=ts&play_token=IAaAVTSLZ
-#EXTINF:-1 tvg-id="SSC 4" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 4 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002776&extension=ts&play_token=vIOSeTtSe0
-#EXTINF:-1 tvg-id="SSC 5 4K" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 5 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002775&extension=ts&play_token=SQKYT6oO6I
-#EXTINF:-1 tvg-id="SSC 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002774&extension=ts&play_token=4UUqTKBp2M
-#EXTINF:-1 tvg-id="SSC 5 SD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 5 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002773&extension=ts&play_token=fNOfPduMw8
-#EXTINF:-1 tvg-id="SSC 5" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" group-title="SSC SPORT MAC",SSC 5 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002772&extension=ts&play_token=SZD5xbStK8
-
-
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526126&extension=ts&play_token=GtzfA6nrV4
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526125&extension=ts&play_token=059Ncz5Z0F
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3hd.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=526124&extension=ts&play_token=lmgB1A9Xz
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506552&extension=ts&play_token=PHAD26RzMC
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506551&extension=ts&play_token=XL4ZHHFmjD
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506550&extension=ts&play_token=baDfdXWIpK
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 4 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506653&extension=ts&play_token=BB13PNSAn
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 5 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506654&extension=ts&play_token=Ea4LGgux2
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 6 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506655&extension=ts&play_token=4CTUAbWZ4y
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 7 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506656&extension=ts&play_token=KTNEYZopkH
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX8.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 8 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506657&extension=ts&play_token=4aI3v6aH1J
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX9.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 9 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506658&extension=ts&play_token=JrEylZMVdA
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/BEIN_SPORT_MAX_10.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 10 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506652&extension=ts&play_token=N6bVQcugVb
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1hd.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507386&extension=ts&play_token=nYOV3Om2xo
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2hd.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507385&extension=ts&play_token=LNF09jer7q
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3hdfrance.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507384&extension=ts&play_token=Fe6zORSv2y
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507371&extension=ts&play_token=4jUqrVLiIL
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507370&extension=ts&play_token=aZK62FsKav
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507369&extension=ts&play_token=vCVfKlFwTU
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507368&extension=ts&play_token=5ddowV2FtB
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax8.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 8 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507367&extension=ts&play_token=KeIVk2WrzR
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax9.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 9 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507366&extension=ts&play_token=eVsE5ZAuW2
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax10.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 10 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507365&extension=ts&play_token=TtUTKabUJ9
-#EXTINF:-1 tvg-id="##### BEIN SPORTS LQ #####" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE.png" group-title="BEIN SPORT VIP MAC",##### BEIN SPORTS LQ ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=814945&extension=ts&play_token=Z2PlB52LI6
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507542&extension=ts&play_token=JHqLBRNxQi
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507541&extension=ts&play_token=8lehBOWsi
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507540&extension=ts&play_token=qF8gra6bn2
-#EXTINF:-1 tvg-id="##### BEIN SPORTS HD #####" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE.png" group-title="BEIN SPORT VIP MAC",##### BEIN SPORTS HD ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=815046&extension=ts&play_token=kHOWuojGMn
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_1_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507699&extension=ts&play_token=wph3vzLENk
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_1_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507698&extension=ts&play_token=D17yQHRhRv
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_1_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507697&extension=ts&play_token=iVWm4zWGQR
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_2_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507696&extension=ts&play_token=VMbIDhr0AE
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_2_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507695&extension=ts&play_token=BcB1LcDtH6
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_2_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507694&extension=ts&play_token=VuLzWxnalW
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_3_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507693&extension=ts&play_token=ZYxEelP8Xs
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_3_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507692&extension=ts&play_token=6ldjKFzP87
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 LQ" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN_SPORTS_3_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 LQ MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507691&extension=ts&play_token=QCsNNXKXw
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/beIN-SPORTS-MAX4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507652&extension=ts&play_token=tamAgb4ceP
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-5-MAX.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507651&extension=ts&play_token=HUhnD7i5OW
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-6-MAX.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507650&extension=ts&play_token=AIVKMHLRVL
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORTS-MAX-7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507649&extension=ts&play_token=HkAOVD6HGP
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORTS-MAX-8.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 8 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507648&extension=ts&play_token=uzoMUMOHGV
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/bein-sports-max-9.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 9 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507647&extension=ts&play_token=Bhe7VWXDME
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/bein-sports-max-10.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 10 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507646&extension=ts&play_token=b2uBcCmwTr
-#EXTINF:-1 tvg-id="##### HIGHLIGHTS BEIN OD #####" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE.png" group-title="BEIN SPORT VIP MAC",##### HIGHLIGHTS BEIN OD ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689119&extension=ts&play_token=Iz4opNuTl
-#EXTINF:-1 tvg-id="BEIN ACTION 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN ACTION 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=825535&extension=ts&play_token=6f06N9wYGL
-#EXTINF:-1 tvg-id="BEIN ACTION 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN ACTION 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=825536&extension=ts&play_token=f25GmpW965
-#EXTINF:-1 tvg-id="BEIN OD FILMS 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689118&extension=ts&play_token=DnnKMUtBwl
-#EXTINF:-1 tvg-id="BEIN OD FILMS 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689117&extension=ts&play_token=L6lCkcaVJk
-#EXTINF:-1 tvg-id="BEIN OD FILMS 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689116&extension=ts&play_token=qbJdiFtLyc
-#EXTINF:-1 tvg-id="BEIN OD FILMS 4 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 4 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689115&extension=ts&play_token=kaABmtGRO7
-#EXTINF:-1 tvg-id="BEIN OD FILMS 5 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 5 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689114&extension=ts&play_token=GYzlOuirOn
-#EXTINF:-1 tvg-id="BEIN OD FILMS 6 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 6 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689113&extension=ts&play_token=3142RdQWi
-#EXTINF:-1 tvg-id="BEIN OD FILMS 7 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 7 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689112&extension=ts&play_token=D9DGOjWOjh
-#EXTINF:-1 tvg-id="BEIN OD FILMS 8 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 8 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689111&extension=ts&play_token=J4Gt67PWNJ
-#EXTINF:-1 tvg-id="BEIN OD FILMS 9 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 9 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689110&extension=ts&play_token=lfUgwPIYz8
-#EXTINF:-1 tvg-id="BEIN OD FILMS 10 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 10 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689109&extension=ts&play_token=sCqadE3i9B
-#EXTINF:-1 tvg-id="BEIN OD FILMS 11 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 11 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689108&extension=ts&play_token=ZtpLZ2ggTW
-#EXTINF:-1 tvg-id="BEIN OD FILMS 12 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 12 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689107&extension=ts&play_token=w0bk4XwJ8V
-#EXTINF:-1 tvg-id="BEIN OD FILMS 13 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 13 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689106&extension=ts&play_token=2aGwPXwyii
-#EXTINF:-1 tvg-id="BEIN OD FILMS 14 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 14 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689105&extension=ts&play_token=93bBwNpj0F
-#EXTINF:-1 tvg-id="BEIN OD FILMS 15 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 15 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689104&extension=ts&play_token=EIlYCthSro
-#EXTINF:-1 tvg-id="BEIN OD FILMS 16 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 16 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689103&extension=ts&play_token=N2Vzbtmz7
-#EXTINF:-1 tvg-id="BEIN OD FILMS 17 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 17 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689102&extension=ts&play_token=IqGd5HvOVt
-#EXTINF:-1 tvg-id="BEIN OD FILMS 18 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 18 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689101&extension=ts&play_token=3gb5FuspZh
-#EXTINF:-1 tvg-id="BEIN OD FILMS 19 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 19 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689100&extension=ts&play_token=KH7HPr6b90
-#EXTINF:-1 tvg-id="BEIN OD FILMS 20 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD FILMS 20 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689099&extension=ts&play_token=lt6PIdwFmU
-#EXTINF:-1 tvg-id="##### HIGHLIGHTS BEIN OD ENF #####" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE.png" group-title="BEIN SPORT VIP MAC",##### HIGHLIGHTS BEIN OD ENF ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689098&extension=ts&play_token=9aAio0RFSv
-#EXTINF:-1 tvg-id="BEIN ANIME 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN ANIME 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=825534&extension=ts&play_token=i4wkDSHdZM
-#EXTINF:-1 tvg-id="BEIN ANIME 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN ANIME 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=825533&extension=ts&play_token=h1TJ0XVqst
-#EXTINF:-1 tvg-id="BEIN OD ENFANTS 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD ENFANTS 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689097&extension=ts&play_token=bixpekxyIS
-#EXTINF:-1 tvg-id="BEIN OD ENFANTS 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD ENFANTS 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689096&extension=ts&play_token=2zv2mQPzH4
-#EXTINF:-1 tvg-id="BEIN OD ENFANTS 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD ENFANTS 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689095&extension=ts&play_token=DPdCvLOfEP
-#EXTINF:-1 tvg-id="BEIN OD ENFANTS 4 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD ENFANTS 4 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689094&extension=ts&play_token=r0gw34Ixth
-#EXTINF:-1 tvg-id="BEIN OD ENFANTS 5 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD ENFANTS 5 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=689093&extension=ts&play_token=EMupNbnmUW
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA N (ES) HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS XTRA N (ES) HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1127391&extension=ts&play_token=CnmAnf7Dsy
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=83953&extension=ts&play_token=EBgq1ACfwK
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=83954&extension=ts&play_token=kPOKoOD0wH
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=83955&extension=ts&play_token=zPBxBXFqDH
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=83956&extension=ts&play_token=5PK1mP2kPX
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=83957&extension=ts&play_token=mNZChZCYqI
-#EXTINF:-1 tvg-id="BEIN SPORTS 8 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-8.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 8 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=83958&extension=ts&play_token=XginhihLE9
-#EXTINF:-1 tvg-id="BEIN SPORTS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45611&extension=ts&play_token=d03lfg85oH
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177356&extension=ts&play_token=fxFmluJn65
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177357&extension=ts&play_token=73vM4ohfts
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177358&extension=ts&play_token=a4V9xIDxa1
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177359&extension=ts&play_token=QM7UFxlPwB
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177360&extension=ts&play_token=2VRSxmY1cM
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177361&extension=ts&play_token=IUvqPcqQCR
-#EXTINF:-1 tvg-id="BEIN SPORTS 8 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BEIN-SPORTS-8.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 8 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=177362&extension=ts&play_token=FeC0mc2UpR
-#EXTINF:-1 tvg-id="##### BEIN SPORTS #####" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEINUHD.png" group-title="BEIN SPORT VIP MAC",##### BEIN SPORTS ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238271&extension=ts&play_token=6o5FYkDvxE
-#EXTINF:-1 tvg-id="BEIN SPORT 1 EN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein_sports-1FHD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 1 EN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=483921&extension=ts&play_token=QAVI4ce9CY
-#EXTINF:-1 tvg-id="BEIN SPORT 2 EN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein_sports-2FHD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 2 EN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=483920&extension=ts&play_token=ISju8i6AaG
-#EXTINF:-1 tvg-id="BEIN SPORT 3 EN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein_sports-3FHD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 3 EN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=483919&extension=ts&play_token=ov0IzgFRm6
-#EXTINF:-1 tvg-id="BEIN SPORT 1 EN HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-1HDENG.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 1 EN HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=49226&extension=ts&play_token=HQMwQUM2TF
-#EXTINF:-1 tvg-id="BEIN SPORT 2 EN HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-2HDENG.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 2 EN HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=49225&extension=ts&play_token=aMKGiu8Pf6
-#EXTINF:-1 tvg-id="BEIN SPORT 3 EN HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3HDENG.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 3 EN HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=49224&extension=ts&play_token=Tc92XeLimL
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 PREMIUM HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/PREMIUM1HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 PREMIUM HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238261&extension=ts&play_token=g4jAjJpash
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 PREMIUM HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/PREMIUM2HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 PREMIUM HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238262&extension=ts&play_token=dNd5XDHW30
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 PREMIUM HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/PREMIUM3HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 PREMIUM HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238263&extension=ts&play_token=gvBxIxfLx8
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein_sport-1HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238265&extension=ts&play_token=lWuXVgW7vn
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein_sport-2HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238264&extension=ts&play_token=B2iwpXcz5X
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein_sport-3HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238266&extension=ts&play_token=Cs8G4PC2Fd
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238267&extension=ts&play_token=e2fRdOEt9F
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238268&extension=ts&play_token=KhTQSMrGPF
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238269&extension=ts&play_token=olHdNbMxn
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=238270&extension=ts&play_token=9TzyNlhVOL
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 EN SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-1ENG.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 EN SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=735946&extension=ts&play_token=LjJDHbG1X
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 EN SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-2ENG.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 EN SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=735945&extension=ts&play_token=f6d9AEGiJE
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 EN SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3HDENG.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 EN SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=735944&extension=ts&play_token=PTyXOxqlaD
-#EXTINF:-1 tvg-id="##### BEIN SPORTS ASIA #####" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEINUHD.png" group-title="BEIN SPORT VIP MAC",##### BEIN SPORTS ASIA ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=923433&extension=ts&play_token=kkQmVmLmy0
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-1UHD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=923432&extension=ts&play_token=0EM3vGlLc
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-2UHD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=923431&extension=ts&play_token=mOTNVJSmpD
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3UHD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=923430&extension=ts&play_token=7vJ8sCwI0l
-#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=806718&extension=ts&play_token=x6Ftlx0Nfz
-#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=806717&extension=ts&play_token=5VCdPb4kvY
-#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=806716&extension=ts&play_token=2w9orklcYS
-#EXTINF:-1 tvg-id="##### BEINSPORTS HD #####" tvg-name="" tvg-logo="" group-title="BEIN SPORT VIP MAC",##### BEINSPORTS HD ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596972&extension=ts&play_token=8ovUVdhcGz
-#EXTINF:-1 tvg-id="BEIN SPORT AFC 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN%20AFC.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT AFC 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1127311&extension=ts&play_token=FElmZINS3
-#EXTINF:-1 tvg-id="BEIN SPORT AFC HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN%20AFC.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT AFC HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1127312&extension=ts&play_token=XpVL9Z03SC
-#EXTINF:-1 tvg-id="BEIN 1 PREMIUM 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM1.png" group-title="BEIN SPORT VIP MAC",BEIN 1 PREMIUM 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1092796&extension=ts&play_token=h8UTX79G08
-#EXTINF:-1 tvg-id="BEIN 2 PREMIUM 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM2.png" group-title="BEIN SPORT VIP MAC",BEIN 2 PREMIUM 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1092797&extension=ts&play_token=EemmSr5CGY
-#EXTINF:-1 tvg-id="BEIN 3 PREMUM 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM3.png" group-title="BEIN SPORT VIP MAC",BEIN 3 PREMUM 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1092798&extension=ts&play_token=r4Yj09StRz
-#EXTINF:-1 tvg-id="BEINSPORTS NEWS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS--NEWS.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS NEWS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596971&extension=ts&play_token=B9o4oT0rWI
-#EXTINF:-1 tvg-id="BEINSPORTS GLOBAL HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-GLOBAL.jpeg" group-title="BEIN SPORT VIP MAC",BEINSPORTS GLOBAL HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596970&extension=ts&play_token=LKDjxCcnz0
-#EXTINF:-1 tvg-id="BEINSPORTS 1 PREMIUM HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 PREMIUM HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596963&extension=ts&play_token=jJv4XGppjC
-#EXTINF:-1 tvg-id="BEINSPORTS 1 PREMIUM HD (BK)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 PREMIUM HD (BK) MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141207&extension=ts&play_token=nBKlykroP6
-#EXTINF:-1 tvg-id="BEINSPORTS 2 PREMIUM HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-PREMIUM.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 PREMIUM HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596961&extension=ts&play_token=bsixxw1wn
-#EXTINF:-1 tvg-id="BEINSPORTS 2 PREMIUM HD (BK)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-PREMIUM.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 PREMIUM HD (BK) MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141206&extension=ts&play_token=CGiHk2MnBa
-#EXTINF:-1 tvg-id="BEINSPORTS 3 PREMIUM HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-3-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 PREMIUM HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596959&extension=ts&play_token=6S3PGvk1Tv
-#EXTINF:-1 tvg-id="BEINSPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596957&extension=ts&play_token=RbV81xGB1
-#EXTINF:-1 tvg-id="BEINSPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596955&extension=ts&play_token=Uimb9rKDKt
-#EXTINF:-1 tvg-id="BEINSPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596953&extension=ts&play_token=3ooSClHLts
-#EXTINF:-1 tvg-id="BEINSPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596951&extension=ts&play_token=bgxW48hRo7
-#EXTINF:-1 tvg-id="BEINSPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596949&extension=ts&play_token=XS436YOytQ
-#EXTINF:-1 tvg-id="BEINSPORTS 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596947&extension=ts&play_token=iBCdBb0R12
-#EXTINF:-1 tvg-id="BEINSPORTS 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596945&extension=ts&play_token=SXt7Ry1pIH
-#EXTINF:-1 tvg-id="BEIN SPORT XTRA 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT XTRA 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699241&extension=ts&play_token=uZHYJqIWew
-#EXTINF:-1 tvg-id="BEIN SPORT XTRA 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT XTRA 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699240&extension=ts&play_token=I7G7La4cJX
-#EXTINF:-1 tvg-id="BEIN SPORTS NBA HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-NBA.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS NBA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1086706&extension=ts&play_token=R7TVufXHXN
-#EXTINF:-1 tvg-id="BEINSPORTS 1 HD EN" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-1-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 HD EN MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596939&extension=ts&play_token=1dMA8db4eE
-#EXTINF:-1 tvg-id="BEINSPORTS 2 HD EN" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 HD EN MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596938&extension=ts&play_token=Zai65pXIA1
-#EXTINF:-1 tvg-id="BEINSPORTS 3 HD EN" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 HD EN MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596937&extension=ts&play_token=WGH84ja7T1
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699233&extension=ts&play_token=k1Ig1xT9n
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699232&extension=ts&play_token=xGzaJsrgH
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 FRENCH HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3-FRE.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 FRENCH HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1086704&extension=ts&play_token=zQgGVE8PUR
-#EXTINF:-1 tvg-id="##### BEIN SPORTS FHD #####" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/358/493/png-clipart-bein-sports-united-states-nasl-la-liga-others-miscellaneous-purple.png" group-title="BEIN SPORT VIP MAC",##### BEIN SPORTS FHD ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=812537&extension=ts&play_token=8uH2pmUejq
-#EXTINF:-1 tvg-id="BEINSPORTS 1 PREMIUM FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 PREMIUM FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596931&extension=ts&play_token=Yp9sjOqwIM
-#EXTINF:-1 tvg-id="BEINSPORTS 2 PREMIUM FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-PREMIUM.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 PREMIUM FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596930&extension=ts&play_token=jaXqb25bl0
-#EXTINF:-1 tvg-id="BEINSPORTS 3 PREMIUM FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-3-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 PREMIUM FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596929&extension=ts&play_token=esSBhWjIsS
-#EXTINF:-1 tvg-id="BEINSPORTS 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596928&extension=ts&play_token=jzhjcOsrXx
-#EXTINF:-1 tvg-id="BEINSPORTS 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596927&extension=ts&play_token=fFkYa1I8aH
-#EXTINF:-1 tvg-id="BEINSPORTS 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596926&extension=ts&play_token=IPtNjvtAsX
-#EXTINF:-1 tvg-id="BEINSPORTS 4 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 4 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596925&extension=ts&play_token=4l6Ic9Hasq
-#EXTINF:-1 tvg-id="BEINSPORTS 5 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 5 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596924&extension=ts&play_token=wPPcr6hJJ8
-#EXTINF:-1 tvg-id="BEINSPORTS 6 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 6 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596923&extension=ts&play_token=Yjs1gGi15C
-#EXTINF:-1 tvg-id="BEINSPORTS 7 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 7 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596922&extension=ts&play_token=91KsAE9OYn
-#EXTINF:-1 tvg-id="BEIN SPORT XTRA 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT XTRA 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699243&extension=ts&play_token=AWFqcPqg5Y
-#EXTINF:-1 tvg-id="BEIN SPORT XTRA 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT XTRA 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699242&extension=ts&play_token=gxwHSeS9Ed
-#EXTINF:-1 tvg-id="BEIN SPORT NBA FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-NBA.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT NBA FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1011633&extension=ts&play_token=GD5FjSdxtZ
-#EXTINF:-1 tvg-id="BEINSPORTS 1 EN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-1-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 EN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596919&extension=ts&play_token=AjCMvAKV0l
-#EXTINF:-1 tvg-id="BEINSPORTS 2 EN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 EN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596918&extension=ts&play_token=CY3k7opG6z
-#EXTINF:-1 tvg-id="BEINSPORTS 3 EN FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 EN FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596917&extension=ts&play_token=j9hyvPXGAH
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699235&extension=ts&play_token=LPwFLezzyc
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699234&extension=ts&play_token=MGZsOGUnnb
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3-FRE.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1086701&extension=ts&play_token=B12yS8d1ZK
-#EXTINF:-1 tvg-id="###### BEIN SPORTS HEVC ######" tvg-name="" tvg-logo="" group-title="BEIN SPORT VIP MAC",###### BEIN SPORTS HEVC ###### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672410&extension=ts&play_token=J7f6PqEKEz
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 PREMIUM HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 PREMIUM HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672409&extension=ts&play_token=D4eeif8nG
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 PREMIUM HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-PREMIUM.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 PREMIUM HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672408&extension=ts&play_token=xGTBmL3nUs
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 PREMIUM HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 PREMIUM HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672407&extension=ts&play_token=CCt9vT098x
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672406&extension=ts&play_token=ZNFJx1iTWw
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672405&extension=ts&play_token=GbYA0dzVch
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672404&extension=ts&play_token=nZ4M46T3I7
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672403&extension=ts&play_token=7mJQZa6a1a
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672402&extension=ts&play_token=ALGYrocKxV
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672401&extension=ts&play_token=tZG58BwqbU
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672400&extension=ts&play_token=YsS90reH6X
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 EN HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-1-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 EN HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672399&extension=ts&play_token=SAq98CdSwi
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 EN HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 EN HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672398&extension=ts&play_token=xVmkJPpiK
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 EN HEVC" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 EN HEVC MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=672397&extension=ts&play_token=j0TIvjnNwT
-#EXTINF:-1 tvg-id="##### BEINSPORTS SD #####" tvg-name="" tvg-logo="" group-title="BEIN SPORT VIP MAC",##### BEINSPORTS SD ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596916&extension=ts&play_token=sXZ72zZqjs
-#EXTINF:-1 tvg-id="BEINSPORTS 1 PREMIUM SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 PREMIUM SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596911&extension=ts&play_token=Zfx1PWhfq1
-#EXTINF:-1 tvg-id="BEINSPORTS 2 PREMIUM SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-PREMIUM.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 PREMIUM SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596910&extension=ts&play_token=EpC6uHuMc6
-#EXTINF:-1 tvg-id="BEINSPORTS 3 PREMIUM SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-3-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 PREMIUM SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596909&extension=ts&play_token=HckXozYTxt
-#EXTINF:-1 tvg-id="BEINSPORTS 1 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596908&extension=ts&play_token=FO1x4zufQM
-#EXTINF:-1 tvg-id="BEINSPORTS 2 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596907&extension=ts&play_token=WgITLs13N9
-#EXTINF:-1 tvg-id="BEINSPORTS 3 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596906&extension=ts&play_token=enibPyPLN
-#EXTINF:-1 tvg-id="BEINSPORTS 4 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 4 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596905&extension=ts&play_token=isGYEWboaU
-#EXTINF:-1 tvg-id="BEINSPORTS 5 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 5 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596904&extension=ts&play_token=6xokbMOLKx
-#EXTINF:-1 tvg-id="BEINSPORTS 6 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 6 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596903&extension=ts&play_token=maebSCm8ko
-#EXTINF:-1 tvg-id="BEINSPORTS 7 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 7 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596902&extension=ts&play_token=m1J1Cd9Q8P
-#EXTINF:-1 tvg-id="BEINSPORTS 1 EN SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-1-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 1 EN SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596899&extension=ts&play_token=HBXCknaJZq
-#EXTINF:-1 tvg-id="BEINSPORTS 2 EN SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 2 EN SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596898&extension=ts&play_token=dZTfJyZA4s
-#EXTINF:-1 tvg-id="BEINSPORTS 3 EN SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-ENGLISH-NP.png" group-title="BEIN SPORT VIP MAC",BEINSPORTS 3 EN SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=596897&extension=ts&play_token=xmmIkFJtz
-#EXTINF:-1 tvg-id="BEIN SPORT FRENCH 1 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT FRENCH 1 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699237&extension=ts&play_token=DQtJjl0YeO
-#EXTINF:-1 tvg-id="BEIN SPORT FRENCH 2 SD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT FRENCH 2 SD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=699236&extension=ts&play_token=oBBwscbdyZ
-#EXTINF:-1 tvg-id="### BEIN SPORTS HD NA ###" tvg-name="" tvg-logo="https://icon2.cleanpng.com/20180611/lsh/kisspng-2018-fifa-world-cup-bein-sports-1-bein-channels-ne-one-world-sports-5b1e7b47e20d33.1638487215287242959259.jpg" group-title="BEIN SPORT VIP MAC",### BEIN SPORTS HD NA ### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809829&extension=ts&play_token=7g93Qc1ppK
-#EXTINF:-1 tvg-id="BEIN SPORTS GLOBAL HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-GLOBAL.jpeg" group-title="BEIN SPORT VIP MAC",BEIN SPORTS GLOBAL HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809828&extension=ts&play_token=WQB4ov54rA
-#EXTINF:-1 tvg-id="BEIN SPORTS NEWS HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-NEWS.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS NEWS HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809827&extension=ts&play_token=LGZpxuDMCQ
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 PREMIUM HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 PREMIUM HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809826&extension=ts&play_token=KGQcgpTdQZ
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 PREMIUM HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-2-HD.jpeg" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 PREMIUM HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809825&extension=ts&play_token=jy4a0QdyWY
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 PREMIUM HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 PREMIUM HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809824&extension=ts&play_token=YZhWp1J7pQ
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809823&extension=ts&play_token=ClPmWMjdYA
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809822&extension=ts&play_token=2MARVnPEaQ
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809821&extension=ts&play_token=FAoe0Y8FeG
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809820&extension=ts&play_token=Zt4z9B6nRn
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809819&extension=ts&play_token=Ro66qJHjGh
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809818&extension=ts&play_token=LpIfQcfcaZ
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809817&extension=ts&play_token=VqSPG5y9RK
-#EXTINF:-1 tvg-id="BEIN SPORT 1 HD EN NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-EN.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 1 HD EN NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809814&extension=ts&play_token=UfLiRLV6Vn
-#EXTINF:-1 tvg-id="BEIN SPORT 2 HD EN NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2-EN.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 2 HD EN NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809813&extension=ts&play_token=9qQFAOkgTd
-#EXTINF:-1 tvg-id="BEIN SPORT 3 HD EN NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORT 3 HD EN NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809812&extension=ts&play_token=arKL1XW6Ld
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 1 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 1 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809811&extension=ts&play_token=1WsKTYqqk5
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 2 HD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 2 HD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809810&extension=ts&play_token=GJwoWyIeI9
-#EXTINF:-1 tvg-id="### BEIN SPORTS SD NA ###" tvg-name="" tvg-logo="https://icon2.cleanpng.com/20180611/lsh/kisspng-2018-fifa-world-cup-bein-sports-1-bein-channels-ne-one-world-sports-5b1e7b47e20d33.1638487215287242959259.jpg" group-title="BEIN SPORT VIP MAC",### BEIN SPORTS SD NA ### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809809&extension=ts&play_token=empj7p5dDB
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 PREMIUM SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 PREMIUM SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809808&extension=ts&play_token=tOyjFyXNFO
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 PREMIUM SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-2-HD.jpeg" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 PREMIUM SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809807&extension=ts&play_token=DJuANk7zqA
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 PREMIUM SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-PREMIUM-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 PREMIUM SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809806&extension=ts&play_token=ux8Fq60hnw
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809805&extension=ts&play_token=rhXh8Bjby
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809804&extension=ts&play_token=HBmcwTgdG2
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809803&extension=ts&play_token=B9LeIlUkr6
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809802&extension=ts&play_token=bmVLKSoz4G
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809801&extension=ts&play_token=xKAV74CGwW
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809800&extension=ts&play_token=L1kgqXWr4b
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809799&extension=ts&play_token=fs0mYQmvcA
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 EN SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/113.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 EN SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809796&extension=ts&play_token=EN8i9g0sQZ
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 EN SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2-EN.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 EN SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809795&extension=ts&play_token=tARyUlarTT
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 EN SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 EN SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809794&extension=ts&play_token=so7wYiJoqS
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 1 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-1.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 1 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809793&extension=ts&play_token=2aeSrhFGaT
-#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 2 SD NA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-FRENCH-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS FRENCH 2 SD NA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809792&extension=ts&play_token=07nzvrU5Nv
-#EXTINF:-1 tvg-id="#### BEIN ENTERTAINMANT ####" tvg-name="" tvg-logo="" group-title="BEIN SPORT VIP MAC",#### BEIN ENTERTAINMANT #### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141584&extension=ts&play_token=2S3ofiU1R9
-#EXTINF:-1 tvg-id="BEIN MOVIES 1 HD PREMIERE" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-1-PREMIERE.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES 1 HD PREMIERE MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141583&extension=ts&play_token=0AAeCnXX9b
-#EXTINF:-1 tvg-id="BEIN MOVIES 2 HD ACTION" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-2-ACTION.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES 2 HD ACTION MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141582&extension=ts&play_token=LO2Mh8EN4u
-#EXTINF:-1 tvg-id="BEIN MOVIES 3 HD DRAMA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-3-DRAMA.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES 3 HD DRAMA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141581&extension=ts&play_token=CEKeQthSWG
-#EXTINF:-1 tvg-id="BEIN MOVIES 4 HD FAMILY" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-4-FAMILY.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES 4 HD FAMILY MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141580&extension=ts&play_token=RHBZ2fuBjt
-#EXTINF:-1 tvg-id="BEIN SERIES 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SERIES-1.png" group-title="BEIN SPORT VIP MAC",BEIN SERIES 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141579&extension=ts&play_token=cwaFo7t6aA
-#EXTINF:-1 tvg-id="BEIN SERIES 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SERIES-2.png" group-title="BEIN SPORT VIP MAC",BEIN SERIES 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141578&extension=ts&play_token=oTbOXjrgab
-#EXTINF:-1 tvg-id="BEIN DRAMA HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DRAMA-1.png" group-title="BEIN SPORT VIP MAC",BEIN DRAMA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141577&extension=ts&play_token=QlWQa0aB8W
-#EXTINF:-1 tvg-id="BEIN FOOD NETWORK" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOOD-NETWORK.png" group-title="BEIN SPORT VIP MAC",BEIN FOOD NETWORK MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141576&extension=ts&play_token=b5kqKqhOgG
-#EXTINF:-1 tvg-id="BEIN GOURMET HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GOURMET-HD.png" group-title="BEIN SPORT VIP MAC",BEIN GOURMET HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141575&extension=ts&play_token=vlfM0LE0k9
-#EXTINF:-1 tvg-id="BEIN FATAFEET" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FATAFEET.png" group-title="BEIN SPORT VIP MAC",BEIN FATAFEET MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141574&extension=ts&play_token=HanM67sjKN
-#EXTINF:-1 tvg-id="BEIN FOX LIFE" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-LIFE.png" group-title="BEIN SPORT VIP MAC",BEIN FOX LIFE MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141572&extension=ts&play_token=eqd4ePrPmL
-#EXTINF:-1 tvg-id="BEIN FOX MOVIES HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-MOVIES.png" group-title="BEIN SPORT VIP MAC",BEIN FOX MOVIES HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141571&extension=ts&play_token=szPHDU1Cvd
-#EXTINF:-1 tvg-id="BEIN FOX ACTION HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-ACTION.png" group-title="BEIN SPORT VIP MAC",BEIN FOX ACTION HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141570&extension=ts&play_token=TZNjsjm2gc
-#EXTINF:-1 tvg-id="BEIN STAR MOVIES HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-STAR-MOVIES.png" group-title="BEIN SPORT VIP MAC",BEIN STAR MOVIES HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141569&extension=ts&play_token=SG87ymqOu
-#EXTINF:-1 tvg-id="BEIN STAR WORLD HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-STAR-WORLD.png" group-title="BEIN SPORT VIP MAC",BEIN STAR WORLD HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141568&extension=ts&play_token=H9LRQAytHT
-#EXTINF:-1 tvg-id="BEIN BBC EARTH HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BBC-EARTH.png" group-title="BEIN SPORT VIP MAC",BEIN BBC EARTH HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141567&extension=ts&play_token=z7QNzh6HCZ
-#EXTINF:-1 tvg-id="BEIN TRAVEL HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-TRAVEL.png" group-title="BEIN SPORT VIP MAC",BEIN TRAVEL HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141566&extension=ts&play_token=8Mo6fyZo9k
-#EXTINF:-1 tvg-id="BEIN ANIMAL PLANET HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-ANIMAL-PLANET.png" group-title="BEIN SPORT VIP MAC",BEIN ANIMAL PLANET HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141565&extension=ts&play_token=LpDcQBhHa
-#EXTINF:-1 tvg-id="BEIN NATIONAL GEO HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-NATIONAL-GEO.png" group-title="BEIN SPORT VIP MAC",BEIN NATIONAL GEO HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141564&extension=ts&play_token=hpp5Kvc2No
-#EXTINF:-1 tvg-id="BEIN NATIONAL GEO WILD HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-NATIONAL-GEO-WILD.png" group-title="BEIN SPORT VIP MAC",BEIN NATIONAL GEO WILD HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141563&extension=ts&play_token=9WsgsrVCW8
-#EXTINF:-1 tvg-id="BEIN HGTV HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-HGTV.png" group-title="BEIN SPORT VIP MAC",BEIN HGTV HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141561&extension=ts&play_token=AoQeYCo4u4
-#EXTINF:-1 tvg-id="BEIN BABY TV  HD AR AUDIO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BABY-TV.png" group-title="BEIN SPORT VIP MAC",BEIN BABY TV  HD AR AUDIO MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141560&extension=ts&play_token=0pxK8LL3S
-#EXTINF:-1 tvg-id="BEIN JEEM KIDS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-JEEM-KIDS.png" group-title="BEIN SPORT VIP MAC",BEIN JEEM KIDS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141559&extension=ts&play_token=oIVusSbcu0
-#EXTINF:-1 tvg-id="BEIN BARAEM KIDS" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BARAEM-KIDS.png" group-title="BEIN SPORT VIP MAC",BEIN BARAEM KIDS MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141558&extension=ts&play_token=oDqmoAvc9r
-#EXTINF:-1 tvg-id="BEIN DREAM WORK HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" group-title="BEIN SPORT VIP MAC",BEIN DREAM WORK HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141557&extension=ts&play_token=Ort5ccAUrW
-#EXTINF:-1 tvg-id="BEIN GULLI ARABIC HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="BEIN SPORT VIP MAC",BEIN GULLI ARABIC HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141556&extension=ts&play_token=GL0R4uNZfr
-#EXTINF:-1 tvg-id="BEIN BOOMERANG HD AR AUDIO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BOOMERANG.png" group-title="BEIN SPORT VIP MAC",BEIN BOOMERANG HD AR AUDIO MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141555&extension=ts&play_token=ydvwirQIFc
-#EXTINF:-1 tvg-id="BEIN JUNIOR KIDS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-JUNIOR-KIDS.png" group-title="BEIN SPORT VIP MAC",BEIN JUNIOR KIDS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141554&extension=ts&play_token=t43PkAKbyB
-#EXTINF:-1 tvg-id="BEIN CARTOON NETWORK HD AR AUDIO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-CARTOON-NETWORK.png" group-title="BEIN SPORT VIP MAC",BEIN CARTOON NETWORK HD AR AUDIO MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141553&extension=ts&play_token=1i4NgX7FHP
-#EXTINF:-1 tvg-id="BEIN DISCOVERY FAMILY HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DISCOVERY-FAMILY.png" group-title="BEIN SPORT VIP MAC",BEIN DISCOVERY FAMILY HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1141562&extension=ts&play_token=DrDQ0B7Xrn
-#EXTINF:-1 tvg-id="###### BEIN OD #######" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",###### BEIN OD ####### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671293&extension=ts&play_token=ki9UraMIYU
-#EXTINF:-1 tvg-id="BEIN OD MOVIES 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD MOVIES 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1010765&extension=ts&play_token=UkFEe9wRAL
-#EXTINF:-1 tvg-id="BEIN OD MOVIES 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD MOVIES 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1010764&extension=ts&play_token=af9VbwglJb
-#EXTINF:-1 tvg-id="BEIN OD MOVIES 3 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD MOVIES 3 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1010763&extension=ts&play_token=lNu9x68JSF
-#EXTINF:-1 tvg-id="BEIN OD MOVIES  4 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD MOVIES  4 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1010762&extension=ts&play_token=osyDNrJ1WH
-#EXTINF:-1 tvg-id="BEIN OD 5 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 5 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671288&extension=ts&play_token=EDpAQJWGH2
-#EXTINF:-1 tvg-id="BEIN OD 6 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 6 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671287&extension=ts&play_token=eA6TJ4sqNd
-#EXTINF:-1 tvg-id="BEIN OD 7 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 7 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671286&extension=ts&play_token=TpeugGcMYa
-#EXTINF:-1 tvg-id="BEIN OD 8 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 8 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671285&extension=ts&play_token=DVoxYKuYZa
-#EXTINF:-1 tvg-id="BEIN OD 9 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 9 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671292&extension=ts&play_token=vDQ9th0lA
-#EXTINF:-1 tvg-id="BEIN OD 10 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 10 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671291&extension=ts&play_token=Ig9UecUPyY
-#EXTINF:-1 tvg-id="BEIN OD 11 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 11 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671290&extension=ts&play_token=9PcMXiDhhs
-#EXTINF:-1 tvg-id="BEIN OD 12 MOVIES FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 12 MOVIES FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671289&extension=ts&play_token=KuD6d8jYS2
-#EXTINF:-1 tvg-id="BEIN OD 1 KIDS FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 1 KIDS FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671284&extension=ts&play_token=79hbXRw3Q0
-#EXTINF:-1 tvg-id="BEIN OD 2 KIDS FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 2 KIDS FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671283&extension=ts&play_token=c5Jlu9j0P3
-#EXTINF:-1 tvg-id="BEIN OD 3 KIDS FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/108.png" group-title="BEIN SPORT VIP MAC",BEIN OD 3 KIDS FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671282&extension=ts&play_token=4X6yMQq30
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 1 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/97.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 1 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671276&extension=ts&play_token=qAjAoPd8B
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/97.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671275&extension=ts&play_token=ejLPv54V2
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 2 FHD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/99.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 2 FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671273&extension=ts&play_token=9wLdNDUiOU
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/99.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=671272&extension=ts&play_token=1kAhvODqXM
-#EXTINF:-1 tvg-id="BEIN SP0RTS HABER 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsporthaber.png" group-title="BEIN SPORT VIP MAC",BEIN SP0RTS HABER 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=912885&extension=ts&play_token=pM4C2uRwct
-#EXTINF:-1 tvg-id="BEIN SPORTS HABER HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsporthaber.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS HABER HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=912884&extension=ts&play_token=03D6k5D3hF
-#EXTINF:-1 tvg-id="BEIN GURME 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beingurme.png" group-title="BEIN SPORT VIP MAC",BEIN GURME 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913165&extension=ts&play_token=CfMOfTlyfG
-#EXTINF:-1 tvg-id="BEIN MOVIES TURK HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-TURK.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES TURK HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913333&extension=ts&play_token=xYuaERvb7u
-#EXTINF:-1 tvg-id="BEIN MOVIES FAMILY HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesfamily.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES FAMILY HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913332&extension=ts&play_token=rmd0Wt13b
-#EXTINF:-1 tvg-id="BEIN MOVIES STARS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesstars.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES STARS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913331&extension=ts&play_token=LL5hlDGIx7
-#EXTINF:-1 tvg-id="BEIN MOVIES ACTION HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesaction.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES ACTION HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913330&extension=ts&play_token=9YDtS2j5MT
-#EXTINF:-1 tvg-id="BEIN MOVIES ACTION 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesaction2.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES ACTION 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913329&extension=ts&play_token=4piFurL69W
-#EXTINF:-1 tvg-id="BEIN MOVIES PREMIERE HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviespremiere.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES PREMIERE HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913328&extension=ts&play_token=FxB6E9PJVa
-#EXTINF:-1 tvg-id="BEIN MOVIES PREMIERE 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviespremiere2.png" group-title="BEIN SPORT VIP MAC",BEIN MOVIES PREMIERE 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913327&extension=ts&play_token=Mufb2US1oi
-#EXTINF:-1 tvg-id="BEINSERIES DRAMA HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinseriesdrama.png" group-title="BEIN SPORT VIP MAC",BEINSERIES DRAMA HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913326&extension=ts&play_token=Q5uJBJIT8c
-#EXTINF:-1 tvg-id="BEINSERIES VICE HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinseriesvice.png" group-title="BEIN SPORT VIP MAC",BEINSERIES VICE HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913325&extension=ts&play_token=WkgnY5KRPi
-#EXTINF:-1 tvg-id="BEINSERIES COMEDY HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinseriescomedy.png" group-title="BEIN SPORT VIP MAC",BEINSERIES COMEDY HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913324&extension=ts&play_token=RTo8h27wvo
-#EXTINF:-1 tvg-id="BEINSERIES SCI-FI HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinseriesscifi.png" group-title="BEIN SPORT VIP MAC",BEINSERIES SCI-FI HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913323&extension=ts&play_token=VPGIek4ZYo
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BOX-OFFICE-1.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1175357&extension=ts&play_token=mvbB6yOevI
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BOX-OFFICE-2.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1175356&extension=ts&play_token=dAtHCgoAco
-#EXTINF:-1 tvg-id="BEIN BOX OFFICE 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-BOX-OFFICE-3.png" group-title="BEIN SPORT VIP MAC",BEIN BOX OFFICE 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1175355&extension=ts&play_token=YnkcSUpvrL
-#EXTINF:-1 tvg-id="##### TR BEIN SPOR #####" tvg-name="" tvg-logo="" group-title="BEIN SPORT VIP MAC",##### TR BEIN SPOR ##### MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913462&extension=ts&play_token=PGtCTJoyjT
-#EXTINF:-1 tvg-id="BEIN SPORTS HABER HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-HABER.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS HABER HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913461&extension=ts&play_token=zsiysBytpY
-#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913460&extension=ts&play_token=uERWvp0JBM
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913459&extension=ts&play_token=VgFPBYAwkL
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 4K" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 4K MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913458&extension=ts&play_token=1TzVBWbLwQ
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913457&extension=ts&play_token=JLfbBL71Dq
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913456&extension=ts&play_token=T2DtwyuUj
-#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913455&extension=ts&play_token=6l3I822aGW
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913454&extension=ts&play_token=qXoMmy25ja
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913453&extension=ts&play_token=NvpcMYZgFb
-#EXTINF:-1 tvg-id="BEIN SPORTS 5Â FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5Â FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1091502&extension=ts&play_token=ee3NDyGWMw
-#EXTINF:-1 tvg-id="BEIN SPORTS 5Â + FHD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5Â + FHD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1091501&extension=ts&play_token=VqtCRsVsNj
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 1 HD 720" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 1 HD 720 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913452&extension=ts&play_token=drxQhDmGsL
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 2 HD 720" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 2 HD 720 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913451&extension=ts&play_token=qMlABdABTj
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 UHD ULTRA" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 UHD ULTRA MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913448&extension=ts&play_token=2ZT40neIEx
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD FEED" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 FHD FEED MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913447&extension=ts&play_token=RS1U5Qo8Jh
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD 1080" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD 1080 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913446&extension=ts&play_token=0eMrMh07TX
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD 1080" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD 1080 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913445&extension=ts&play_token=xGxk1HcSV
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD 1080" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD 1080 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913444&extension=ts&play_token=0PgaIXnpEJ
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD 1080" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD 1080 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913443&extension=ts&play_token=iaRWt5jers
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 1 HD 1080" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 1 HD 1080 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913442&extension=ts&play_token=OSaQFzdcNP
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 2 HD 1080" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="BEIN SPORT VIP MAC",BEIN SPORTS MAX 2 HD 1080 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913441&extension=ts&play_token=CTCkQeX3xN
-#EXTINF:-1 tvg-id="BEIN SPORTS HABER HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-HABER.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS HABER HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=913440&extension=ts&play_token=s3I9C9U3T1
-#EXTINF:-1 tvg-id="BEIN SPORTS N" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/laz.beinsportyn.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS N MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=75282&extension=ts&play_token=QdlEKTycBN
-#EXTINF:-1 tvg-id="BEIN SPORTS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN--SPORTS-SNGAPOR.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941569&extension=ts&play_token=jWcmVFqGs
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941568&extension=ts&play_token=8wibu3IGwa
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-NP.jpg" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941567&extension=ts&play_token=5NUSXt1YS
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941566&extension=ts&play_token=Tk4AMSIg35
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941565&extension=ts&play_token=l69EXgSPHG
-#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683139&extension=ts&play_token=ORJypcO9FK
-#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683138&extension=ts&play_token=m8UBjUBarr
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=646977&extension=ts&play_token=eZwiXk6ENl
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=646976&extension=ts&play_token=LYEWXGNB6Y
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=646975&extension=ts&play_token=BBvLM85EiX
-#EXTINF:-1 tvg-id="BEIN SPORTS HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864612&extension=ts&play_token=ef9LbsmWMw
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864613&extension=ts&play_token=Zbv2Fj2WZ9
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864614&extension=ts&play_token=YYSqL8hQBM
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864615&extension=ts&play_token=hAiymCGtkO
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864616&extension=ts&play_token=6TG1WNn90F
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864617&extension=ts&play_token=4Rhu7CFqC
-#EXTINF:-1 tvg-id="BEIN SPORTS 8 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 8 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864618&extension=ts&play_token=biwnyj6R4o
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864622&extension=ts&play_token=bbADpuclKr
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864623&extension=ts&play_token=61K1onXOIv
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 4 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864624&extension=ts&play_token=sBC87XdWS1
-#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 5 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864625&extension=ts&play_token=jKnl9s7qss
-#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 6 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864626&extension=ts&play_token=G7lkMeV858
-#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 7 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864627&extension=ts&play_token=qouDiO2Zql
-#EXTINF:-1 tvg-id="BEIN SPORTS 8 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BEIN_SPORTS_HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 8 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864628&extension=ts&play_token=05w62YHy5F
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 1 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864619&extension=ts&play_token=kVHCmvZAjl
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 2 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864620&extension=ts&play_token=D8ULldeU4J
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORT VIP MAC",BEIN SPORTS 3 HD MAC
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=864621&extension=ts&play_token=6NXUFXM9Lj
-
-
-
 #EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="IPTV-Tree BeIN",beIN Sports 1
 http://iptvtree.net:8080/Millenium/7Se7MBqtCsEEt3VC/144
 #EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="IPTV-Tree BeIN",beIN Sports 2
@@ -1975,7 +1079,18 @@ http://pprotv.com:80/fofo777/fofo777/175029
 http://pprotv.com:80/fofo777/fofo777/175030
 
 
-#EXTINF:-1 tvg-id="" group-title="Test Channels",Facebook live
-https://video.fbey2-2.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-1/_nc_sr_t-4/v/rAScqBpTIiGy7DhMJ_3QfL4M1l0l0xbfJCBMdd6AlJ0-9ag/_nc_ohc-xqBkgF_3DzkAX9i9Hwi/live-dash/dash-abr-ibr-audio/688679826414985.mpd?aaf=1&ccb=2-4&ms=m_CTPA&replica=0&sc_t=1&oh=00_AfAVa5NlxtkVuXdrSI3lAn2E_e0jm_DihXC3B_CNkhe5uQ&oe=64928178
-#EXTINF:-1 tvg-id="" group-title="Test Channels",SSC 2
-https://shls-ssc-2-prod-dub.shahid.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports 1
+http://148.251.152.43:8080/egypt/tv/746
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports 2
+http://148.251.152.43:8080/egypt/tv/747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports 3
+http://148.251.152.43:8080/egypt/tv/748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU415iMieuyFFoaiKwplFVPhM1sEnE0YxwcNPasW3HEKMtQukn4SvT49xSG4sAMnfm668" group-title="chachatv.me SSC Sprots",SSC Sports 4
+http://148.251.152.43:8080/egypt/tv/749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports 5
+http://148.251.152.43:8080/egypt/tv/750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports Extra 1
+http://148.251.152.43:8080/egypt/tv/751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports Extra 2
+http://148.251.152.43:8080/egypt/tv/752
