@@ -1958,5 +1958,7 @@ http://pprotv.com:80/fofo777/fofo777/175029
 http://pprotv.com:80/fofo777/fofo777/175030
 
 
-#EXTINF:-1 tvg-id="" group-title="Test Facebook Live",Facebook live
+#EXTINF:-1 tvg-id="" group-title="Test Channels",Facebook live
 https://video.fbey2-2.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-1/_nc_sr_t-4/v/rAScqBpTIiGy7DhMJ_3QfL4M1l0l0xbfJCBMdd6AlJ0-9ag/_nc_ohc-xqBkgF_3DzkAX9i9Hwi/live-dash/dash-abr-ibr-audio/688679826414985.mpd?aaf=1&ccb=2-4&ms=m_CTPA&replica=0&sc_t=1&oh=00_AfAVa5NlxtkVuXdrSI3lAn2E_e0jm_DihXC3B_CNkhe5uQ&oe=64928178
+#EXTINF:-1 tvg-id="" group-title="Test Channels",SSC 2
+https://shls-ssc-2-prod-dub.shahid.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
