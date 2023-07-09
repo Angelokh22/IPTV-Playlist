@@ -1096,3 +1096,8 @@ http://148.251.152.43:8080/egypt/tv/750
 http://148.251.152.43:8080/egypt/tv/751
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="chachatv.me SSC Sprots",SSC Sports Extra 2
 http://148.251.152.43:8080/egypt/tv/752
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shahid Test",SSC 2 Shahid
+https://shls-ssc-2-prod-dub.shahid.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
