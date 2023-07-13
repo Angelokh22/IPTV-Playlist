@@ -101,21 +101,19 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="KSA SSC 1 HD" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="SSC SPORT",KSA SSC 1
-#EXTVLCOPT:http-referrer=https://aflam4you.co/
-https://aflam4youtv.yallahshooty.live:3118/live/ssccc11111111111live.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=23
 #EXTINF:-1 tvg-id="KSA SSC 2" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="SSC SPORT",KSA SSC 2
-#EXTVLCOPT:http-referrer=https://aflam4you.co/
-https://aflam4youtv.yallahshooty.live:3496/live/ssccc22222322222live.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=24
 #EXTINF:-1 tvg-id="KSA SSC 3" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png" group-title="SSC SPORT",KSA SSC 3
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002785&extension=ts
+https://youtube-dl-online.angelokh.repl.co/airmax?id=25
 #EXTINF:-1 tvg-id="KSA SSC 4" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU415iMieuyFFoaiKwplFVPhM1sEnE0YxwcNPasW3HEKMtQukn4SvT49xSG4sAMnfm668" group-title="SSC SPORT",KSA SSC 4
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002776&extension=ts
+https://youtube-dl-online.angelokh.repl.co/airmax?id=26
 #EXTINF:-1 tvg-id="KSA SSC 5" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" group-title="SSC SPORT",KSA SSC 5
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002772&extension=ts
+https://youtube-dl-online.angelokh.repl.co/airmax?id=27
 #EXTINF:-1 tvg-id="KSA SSC Sport Extra 1" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png" group-title="SSC SPORT",KSA SSC Sport Extra 1
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002795&extension=ts
+https://youtube-dl-online.angelokh.repl.co/airmax?id=364
 #EXTINF:-1 tvg-id="KSA SSC Sport Extra 2" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="SSC SPORT",KSA SSC Sport Extra 2
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002787&extension=ts
+https://youtube-dl-online.angelokh.repl.co/airmax?id=365
 #EXTINF:-1 tvg-id="KSA SSC Sport Extra 3" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="SSC SPORT",KSA SSC Sport Extra 3
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002780&extension=ts
 
@@ -168,12 +166,6 @@ https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO FHD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506575&extension=ts&play_token=5EuVMNu1wU
-#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO HD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507285&extension=ts&play_token=J0L9NsmzAD
-#EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO LQ
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507477&extension=ts&play_token=7iXO0env94
 #EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (180p)
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/KTO/kto180.m3u8
 #EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (360p)
@@ -185,6 +177,10 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", OSN Nickelodeon AR
+https://youtube-dl-online.angelokh.repl.co/airmax?id=242
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", OSN Nickelodeon AR SpongeBob
+https://ythls.onrender.com/video/M7A_IObB17U.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonjunior.png" group-title="Kids", Nickelodeon Junior FR FHD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506510&extension=ts&play_token=AVV5kSMIRf
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonjunior.png" group-title="Kids", Nickelodeon Junior FR HD
@@ -310,21 +306,19 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=726585&extension=
 
 
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter HD
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=506618&extension=ts&play_token=IzDUh6iSe1
+http://livetv.ktv.zone/24/play.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo FHD
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=506490&extension=ts&play_token=gVjHQRa5BD
+http://ott-cdn.ucom.am/s35/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="gulli fr" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/gullihd.png" group-title="Kids",GULLI FR FHD
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=506501&extension=ts&play_token=Vs7mmomlq9
+http://livetv.ktv.zone/20/play.m3u8
 #EXTINF:-1 tvg-id="gulli fr" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/gullihd.png" group-title="Kids",GULLI FR HD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507303&extension=ts&play_token=7oUihvcS4r
-#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR HD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507492&extension=ts&play_token=iKyMBH9Zbu
+http://livetv.ktv.zone/120/play.m3u8
 
 
 
@@ -376,15 +370,15 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="OTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OTV-.png" group-title="Lebanon",OTV Lebanon (720p)
-
-
-
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+
+
+
 #EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="Lebanon",TL Lebanon (720p)
-
-
-
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International m3u8
 http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.m3u8
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International ts
@@ -400,7 +394,9 @@ http://148.251.152.43:8080/egypt/tv/133
 
 
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (360p)
-https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_360p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
+https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_360p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687402401
+http://mysat-live.ercdn.net/lbccustom/lbccustom_360p-1687358040.ts?st=3ju1IA6gXq_O96s2c4sJdA&e=1687401401
+
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (480p)
 https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_480p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (720p)
@@ -1120,32 +1116,80 @@ http://148.251.152.43:8080/egypt/tv/752
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC 1                                  Working
-https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+#EXTINF:-1 tvg-id=""Al Arabiya tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/logos/alarabiya.png" group-title="News",Al Arabiya (288p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_33.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/logos/alarabiya.png" group-title="News",Al Arabiya (360p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_34.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/logos/alarabiya.png" group-title="News",Al Arabiya (468p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_35.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_ARABIA_HD.png" group-title="News",Al Arabiya (576p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_36.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_ARABIA_HD.png" group-title="News",Al Arabiya (720p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_37.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_ARABIA_HD.png" group-title="News",Al Arabiya (Auto)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_ARABIA_HD.png" group-title="News",Al Arabiya (Auto)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC 2                                  Working
-https://shls-ssc-2-prod-dub.shahid.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC 2                                  Working
-https://ssc-2-ak.akamaized.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC 3                                  Working
-https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH.png" group-title="News",Al Hadath (144p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_9.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH.png" group-title="News",Al Hadath (252p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_10.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH.png" group-title="News",Al Hadath (288p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_6.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH.png" group-title="News",Al Hadath (360p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_5.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH.png" group-title="News",Al Hadath (468p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_4.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH_HD.png" group-title="News",Al Hadath (576p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH_HD.png" group-title="News",Al Hadath (720p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_2.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH_HD.png" group-title="News",Al Hadath (1080p)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH_HD.png" group-title="News",Al Hadath (Auto)
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC 4                                  Working
-https://ssc-4-ak.akamaized.net/out/v1/7aeb8bd13f7942728d2f2a79735ee53c/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC 5                                  Working
-https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC Extra 1                            Working
-https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (144p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_10.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (252p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_6.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (288p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_4.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (360p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_3.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (468p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_2.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (576p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_8.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (720p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_1.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (1080p)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_7.m3u8
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (Auto)
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC Extra 2                            Not Working
-https://ssc-extra2-ak.akamaized.net/out/v1/e7bfd0623d6b45e8904c6d02d9e72fb9/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC Extra 3                            Working
-https://ssc-extra3-ak.akamaized.net/out/v1/8390b35dae284f53b44c3c8645a5fb09/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MPD",Shahid SSC News                               Working
-https://ssc-news-on-prem-ak.akamaized.net/out/v1/f2c4d3235fc24094a27c2d07ecb3069d/index.mpd
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/EURONEWS.png" group-title="News",Euro News French (144p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_10.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/EURONEWS.png" group-title="News",Euro News French (252p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_6.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/EURONEWS.png" group-title="News",Euro News French (288p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_4.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/EURONEWS.png" group-title="News",Euro News French (360p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_3.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/EURONEWS.png" group-title="News",Euro News French (468p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_2.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="logo.protv.cc/picons/iptvlogos/EURONEWS_HD.png" group-title="News",Euro News French (576p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_7.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="logo.protv.cc/picons/iptvlogos/EURONEWS_HD.png" group-title="News",Euro News French (720p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_1.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="logo.protv.cc/picons/iptvlogos/EURONEWS_HD.png" group-title="News",Euro News French (1080p)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_8.m3u8
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="logo.protv.cc/picons/iptvlogos/EURONEWS_HD.png" group-title="News",Euro News French (Auto)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
