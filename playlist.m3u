@@ -1193,3 +1193,8 @@ https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index_8.m3u8
 #EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="logo.protv.cc/picons/iptvlogos/EURONEWS_HD.png" group-title="News",Euro News French (Auto)
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Movies Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OSN-MOVIES-ACTION-HD.jpg" group-title="Movie",Movies Action
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/10.m3u8
