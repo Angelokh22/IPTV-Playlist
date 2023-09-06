@@ -17,42 +17,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEINNEWS.png" group-title="BEIN SPORT VIP",BEIN SPORTS NEWS (1080p)
-http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 1 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM1.png" group-title="BEIN SPORT VIP",BEIN SPORTS PREMIUM 1 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=10
-#EXTINF:-1 tvg-id="" tvg-name=" BEIN SPORTS PREMIUM 2 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM2.png" group-title="BEIN SPORT VIP",BEIN SPORTS PREMIUM 2 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=11
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS PREMIUM 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM3.png" group-title="BEIN SPORT VIP",BEIN SPORTS PREMIUM 3 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=12
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS 1 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/beinsport1.png" group-title="BEIN SPORT VIP",BEIN SPORTS 1 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=13
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS 2 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT2.png" group-title="BEIN SPORT VIP",BEIN SPORTS 2 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=14
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT3.png" group-title="BEIN SPORT VIP",BEIN SPORTS 3 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=15
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT4.png" group-title="BEIN SPORT VIP",BEIN SPORTS 4 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=16
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT5.png" group-title="BEIN SPORT VIP",BEIN SPORTS 5 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=17
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT6.png" group-title="BEIN SPORT VIP",BEIN SPORTS 6 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=18
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="BEIN SPORT VIP",BEIN SPORTS 7 SD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=19
-
-
-
-#EXTINF:-1 tvg-id="Fox Movies" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-MOVIES.png" group-title="Fox MEDIA",Fox Movies
-https://youtube-dl-online.angelokh.repl.co/airmax?id=220
-#EXTINF:-1 tvg-id="" tvg-name="FoxLife" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_LIFE.png" group-title="Fox MEDIA",FoxLife
-https://youtube-dl-online.angelokh.repl.co/airmax?id=215
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_CRIME_HD.png" group-title="Fox MEDIA",Fox Crime
-https://youtube-dl-online.angelokh.repl.co/airmax?id=216
-#EXTINF:-1 tvg-id="" tvg-name="Fox Rewayat HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-FOX-REWAYAT.png" group-title="Fox MEDIA",Fox Rewayat HD
-https://youtube-dl-online.angelokh.repl.co/airmax?id=217
-
-
-
 #EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (360p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 #EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (480p)
@@ -61,25 +25,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (Auto)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="KSA SSC 1 HD" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="SSC SPORT",KSA SSC 1
-https://youtube-dl-online.angelokh.repl.co/airmax?id=23
-#EXTINF:-1 tvg-id="KSA SSC 2" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="SSC SPORT",KSA SSC 2
-https://youtube-dl-online.angelokh.repl.co/airmax?id=24
-#EXTINF:-1 tvg-id="KSA SSC 3" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png" group-title="SSC SPORT",KSA SSC 3
-https://youtube-dl-online.angelokh.repl.co/airmax?id=25
-#EXTINF:-1 tvg-id="KSA SSC 4" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU415iMieuyFFoaiKwplFVPhM1sEnE0YxwcNPasW3HEKMtQukn4SvT49xSG4sAMnfm668" group-title="SSC SPORT",KSA SSC 4
-https://youtube-dl-online.angelokh.repl.co/airmax?id=26
-#EXTINF:-1 tvg-id="KSA SSC 5" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" group-title="SSC SPORT",KSA SSC 5
-https://youtube-dl-online.angelokh.repl.co/airmax?id=27
-#EXTINF:-1 tvg-id="KSA SSC Sport Extra 1" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png" group-title="SSC SPORT",KSA SSC Sport Extra 1
-https://youtube-dl-online.angelokh.repl.co/airmax?id=364
-#EXTINF:-1 tvg-id="KSA SSC Sport Extra 2" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="SSC SPORT",KSA SSC Sport Extra 2
-https://youtube-dl-online.angelokh.repl.co/airmax?id=365
-#EXTINF:-1 tvg-id="KSA SSC Sport Extra 3" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="SSC SPORT",KSA SSC Sport Extra 3
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002780&extension=ts
 
 
 
@@ -138,33 +83,6 @@ https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/KTO/kto3
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/KTO/kto480.m3u8
 #EXTINF:-1 tvg-id="KTO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/kto.png" group-title="Religion",KTO (Auto)
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", OSN Nickelodeon AR
-https://youtube-dl-online.angelokh.repl.co/airmax?id=242
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", OSN Nickelodeon AR SpongeBob
-https://ythls.onrender.com/video/M7A_IObB17U.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonjunior.png" group-title="Kids", Nickelodeon Junior FR FHD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506510&extension=ts&play_token=AVV5kSMIRf
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonjunior.png" group-title="Kids", Nickelodeon Junior FR HD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507308&extension=ts&play_token=vVs0I3h71i
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonjunior.png" group-title="Kids", Nickelodeon Junior FR LQ
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507497&extension=ts&play_token=SaexTKosas
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Teen FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonteen.png" group-title="Kids", Nickelodeon Teen FR FHD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506511&extension=ts&play_token=AVV5kSMIRf
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Teen FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonteen.png" group-title="Kids", Nickelodeon Teen FR LQ
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507502&extension=ts&play_token=nWh7Nvkf89
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", Nickelodeon FR FHD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=506512&extension=ts&play_token=AVV5kSMIRf
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", Nickelodeon FR HD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507309&extension=ts&play_token=V561HHQ2R1
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="Kids", Nickelodeon FR LQ
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507498&extension=ts&play_token=w3DM7v5n5S
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon +1 FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonplus1.png" group-title="Kids", Nickelodeon +1 FR HD
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507307&extension=ts&play_token=0P8CFjrLpv
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon +1 FR" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonplus1.png" group-title="Kids", Nickelodeon +1 FR LQ
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=507496&extension=ts&play_token=uIkSJj8HgE
 
 
 
@@ -231,50 +149,22 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/HBO.png" group-title="Movie",HBO
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=533677&extension=ts&play_token=xdbt7BgLik683152
-#EXTINF:-1 tvg-id="HBO Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/HBO-MAX.png" group-title="Movie",HBO Max
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=924710&extension=ts&play_token=xdbt7BgLik683151
-#EXTINF:-1 tvg-id="H History" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/HISTORY.png" group-title="Movie",H History
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683091&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/USA/HBO-SIGNATURE.png" group-title="Movie",HBO Signature
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=550768&extension=ts&play_token=xdbt7BgLik683156
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/HBO-FAMILY-HD.png" group-title="Movie",HBO Family
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=550763&extension=ts&play_token=xdbt7BgLik683150
-#EXTINF:-1 tvg-id="HBO Cinemax" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CINEMAX_HD.png" group-title="Movie",HBO Cinemax
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=550727&extension=ts&play_token=xdbt7BgLik683161
-
-
-
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_1.png" group-title="Sports",Arena Sport 1
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161931&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_2.png" group-title="Sports",Arena Sport 2
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161932&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_3.png" group-title="Sports",Arena Sport 3
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161933&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_4.png" group-title="Sports",Arena Sport 4
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161934&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_5.png" group-title="Sports",Arena Sport 5
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161935&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ARENA_SPORT_6.png" group-title="Sports",Arena Sport 6
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=161936&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-7-HR.png" group-title="Sports",Arena Sport 7
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=726582&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-8-HR.png" group-title="Sports",Arena Sport 8
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=726583&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-9-HR.png" group-title="Sports",Arena Sport 9
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=726584&extension=ts&play_token=xdbt7BgLik
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-10-HR.png" group-title="Sports",Arena Sport 10
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=726585&extension=ts&play_token=xdbt7BgLik
-
-
-
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter HD
 http://livetv.ktv.zone/24/play.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo FHD
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (234p)
+#EXTVLCOPT:http-user-agent=Mozilla
+http://ott-cdn.ucom.am/s35/01.m3u8
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (360p)
+#EXTVLCOPT:http-user-agent=Mozilla
+http://ott-cdn.ucom.am/s35/03.m3u8
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (480p)
+#EXTVLCOPT:http-user-agent=Mozilla
+http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (Auto)
+#EXTVLCOPT:http-user-agent=Mozilla
 http://ott-cdn.ucom.am/s35/index.m3u8
 
 
@@ -380,6 +270,11 @@ https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2
 
 
 
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV
+https://proflix.app:8443/SENSES/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="News",CGTN Arabic (180p)
 https://livear.cgtn.com/200a/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnarabic.png" group-title="News",CGTN Arabic (360p)
@@ -470,6 +365,9 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc2.png" group-title="MBC Group",MBC 2
 http://194.37.92.14:12000/play/a01c
+http://149.18.45.19:8000/play/a080/index.m3u8
+# http-user-agent=<anything but not empty>
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../29.ts
 
 
 
@@ -538,6 +436,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
 http://194.37.92.14:12000/play/a01d
+# http-user-agent=<anything but not empty>
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../30.ts
 
 
 
@@ -708,6 +608,9 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
 http://194.37.92.14:12000/play/a01e
+http://149.18.45.19:8000/play/a081/index.m3u8
+# http-user-agent=<anything but not empty>
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../31.ts
 
 
 
@@ -841,6 +744,91 @@ https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b
 
 
 
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (240p)
+https://live-hls-web-aja-fa.getaj.net/AJA/06.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (360p)
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (420p)
+https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (540p)
+https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (720p)
+https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (1080p)
+https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (Auto)
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (240p)
+https://live-hls-web-aje.getaj.net/AJE/06.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (360p)
+https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (420p)
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (540p)
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (720p)
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="News",Al Jazeera English (Auto)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (240p)
+https://live-hls-web-ajd.getaj.net/AJD/06.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (360p)
+https://live-hls-web-ajd.getaj.net/AJD/05.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (420p)
+https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (540p)
+https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (720p)
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (1080p)
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeradocumentary.png" group-title="News",Al Jazeera Documentary (Auto)
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (240p)
+https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (360p)
+https://live-hls-web-ajm.getaj.net/AJM/05.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (420p)
+https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (540p)
+https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (720p)
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeramubasher.png" group-title="News",Al Jazeera Mubasher (Auto)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (240p)
+https://live-hls-web-ajb.getaj.net/AJB/06.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (360p)
+https://live-hls-web-ajb.getaj.net/AJB/05.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (420p)
+https://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (540p)
+https://live-hls-web-ajb.getaj.net/AJB/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (720p)
+https://live-hls-web-ajb.getaj.net/AJB/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (1080p)
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeerabalkans.png" group-title="News",Al Jazeera Balkans (Auto)
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (144p)
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index_10.m3u8
 #EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (252p)
@@ -918,3 +906,36 @@ https://github.com/Angelokh22/IPTV-Playlist/raw/main/Streams/discovery/DMAX.m3u8
 https://github.com/Angelokh22/IPTV-Playlist/raw/main/Streams/discovery/Food Network.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TC-ANIMAL-PLANET.png" group-title="Documentary",Animal Planet (Auto)
 https://github.com/Angelokh22/IPTV-Playlist/raw/main/Streams/discovery/Animal_Planet.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BeIn Sports Xtra EN" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" group-title="BeIn Sports",BeIn Sports Xtra EN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D
+
+
+
+#EXTINF:-1 tvg-id="Animaux" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/animaux.png" group-title="Documentary",Animaux
+https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
+#EXTINF:-1 tvg-id="Pluto TV Animals" tvg-name="" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Documentary",Pluto TV Animals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+
+
+#EXTINF:-1 tvg-id="Sky Sports Formula 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsf1.png" group-title="Sky Channels",Sky Sports Fomula 1
+https://live.angelokh.repl.co/stream/live/skysports/formula1_chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (180p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (240p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (360p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (540p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (Auto)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
