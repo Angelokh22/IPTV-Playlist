@@ -155,16 +155,12 @@ http://livetv.ktv.zone/24/play.m3u8
 
 
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (234p)
-#EXTVLCOPT:http-user-agent=Mozilla
 http://ott-cdn.ucom.am/s35/01.m3u8
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (360p)
-#EXTVLCOPT:http-user-agent=Mozilla
 http://ott-cdn.ucom.am/s35/03.m3u8
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (480p)
-#EXTVLCOPT:http-user-agent=Mozilla
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mezzohd.png" group-title="Music",Mezzo (Auto)
-#EXTVLCOPT:http-user-agent=Mozilla
 http://ott-cdn.ucom.am/s35/index.m3u8
 
 
@@ -917,7 +913,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTINF:-1 tvg-id="Animaux" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/animaux.png" group-title="Documentary",Animaux
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
 #EXTINF:-1 tvg-id="Pluto TV Animals" tvg-name="" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Documentary",Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=666
 
 
 #EXTINF:-1 tvg-id="Sky Sports Formula 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsf1.png" group-title="Sky Channels",Sky Sports Fomula 1
@@ -939,3 +935,75 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (Auto)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports News ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/2296.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports NBA en
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49691.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 3 ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3244.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 6 ar (1)
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3245.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 6 ar (2)
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3247.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports Xtra 3 ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3246.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 7 ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49383.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 8 en (1)
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49384.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 8 en (2)
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49385.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 1 ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49685.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 2 ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49386.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports Xtra 1 en
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49686.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 3 ar
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/19.m3u8
+#EXTINF:-1 tvg-id="BeIn Movies" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Movies 4 Family
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/1791.m3u8
+#EXTINF:-1 tvg-id="BeIn Drama" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Drama 1
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49495.m3u8
+#EXTINF:-1 tvg-id="BeIn Series" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Series 1
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/4114.m3u8
+#EXTINF:-1 tvg-id="BeIn Series" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Series 2
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/50439.m3u8
+#EXTINF:-1 tvg-id="BeIn AMC" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn AMC
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/48776.m3u8
+#EXTINF:-1 tvg-id="BeIn Boomerang" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Boomerang
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/48858.m3u8
+#EXTINF:-1 tvg-id="BeIn DTX" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn DTX
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49496.m3u8
+#EXTINF:-1 tvg-id="BeIn HGTV" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn HGTV
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/52009.m3u8
+#EXTINF:-1 tvg-id="BeIn Fox Life" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Fox Life
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/52773.m3u8
+#EXTINF:-1 tvg-id="BeIn BBC Earth" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn BBC Earth
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/52786.m3u8
+#EXTINF:-1 tvg-id="BeIn Fox Crime" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Fox Crime
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53023.m3u8
+#EXTINF:-1 tvg-id="OSN TV Crime" tvg-name="" tvg-logo="" group-title="OSN",OSN TV Crime
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53024.m3u8
+#EXTINF:-1 tvg-id="OSN Movies Box Office 1" tvg-name="" tvg-logo="" group-title="OSN",OSN Movies Box Office 1
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53060.m3u8
+#EXTINF:-1 tvg-id="OSN Movies Box Office 2" tvg-name="" tvg-logo="" group-title="OSN",OSN Movies Box Office 2
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/48.m3u8
+#EXTINF:-1 tvg-id="BeIn Box Office 2" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Box Office 2
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53061.m3u8
+#EXTINF:-1 tvg-id="BeIn Box Office 3" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Box Office 3
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49.m3u8
+#EXTINF:-1 tvg-id="BeIn Gourmet" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Gourmet
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53395.m3u8
+#EXTINF:-1 tvg-id="BeIn Discovery" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Discovery
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/54362.m3u8
+#EXTINF:-1 tvg-id="OSN Animal Planet" tvg-name="" tvg-logo="" group-title="OSN",OSN Animal Planet
+http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/50853.m3u8
