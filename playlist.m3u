@@ -917,7 +917,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff30370450
 
 
 #EXTINF:-1 tvg-id="Sky Sports Formula 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsf1.png" group-title="Sky Channels",Sky Sports Fomula 1
-https://live.angelokh.repl.co/stream/live/skysports/formula1_chunklist.m3u8
+https://live.angelokh.repl.co/stream/live/skysports/formula1/playlist.m3u8
 
 
 
