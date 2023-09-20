@@ -632,17 +632,17 @@ https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8
 
 
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALKASS1.png" group-title="Al Kass",Al Kass One (340p)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master340.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master340.m3u8
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALKASS1.png" group-title="Al Kass",Al Kass One (450p)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master450.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master450.m3u8
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassonehd.png" group-title="Al Kass",Al Kass One (540p)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master540.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master540.m3u8
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassonehd.png" group-title="Al Kass",Al Kass One (720p)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master720.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master720.m3u8
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassonehd.png" group-title="Al Kass",Al Kass One (1080p)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master1080.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master1080.m3u8
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassonehd.png" group-title="Al Kass",Al Kass One (Auto)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master.m3u8
 
 
 
@@ -699,6 +699,7 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist_b2
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist_b5128000_sleng.m3u8
 #EXTINF:-1 tvg-id="Al Kass Five" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/AL-KASS-5-HD.png" group-title="Al Kass",Al Kass Five (Auto)
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist.m3u8
+
 
 
 
@@ -1015,75 +1016,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (Auto)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports News ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/2296.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports NBA en
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49691.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 3 ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3244.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 6 ar (1)
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3245.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 6 ar (2)
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3247.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports Xtra 3 ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/3246.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 7 ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49383.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 8 en (1)
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49384.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 8 en (2)
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49385.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 1 ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49685.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 2 ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49386.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports Xtra 1 en
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49686.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Sports 3 ar
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/19.m3u8
-#EXTINF:-1 tvg-id="BeIn Movies" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Movies 4 Family
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/1791.m3u8
-#EXTINF:-1 tvg-id="BeIn Drama" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Drama 1
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49495.m3u8
-#EXTINF:-1 tvg-id="BeIn Series" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Series 1
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/4114.m3u8
-#EXTINF:-1 tvg-id="BeIn Series" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Series 2
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/50439.m3u8
-#EXTINF:-1 tvg-id="BeIn AMC" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn AMC
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/48776.m3u8
-#EXTINF:-1 tvg-id="BeIn Boomerang" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Boomerang
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/48858.m3u8
-#EXTINF:-1 tvg-id="BeIn DTX" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn DTX
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49496.m3u8
-#EXTINF:-1 tvg-id="BeIn HGTV" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn HGTV
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/52009.m3u8
-#EXTINF:-1 tvg-id="BeIn Fox Life" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Fox Life
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/52773.m3u8
-#EXTINF:-1 tvg-id="BeIn BBC Earth" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn BBC Earth
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/52786.m3u8
-#EXTINF:-1 tvg-id="BeIn Fox Crime" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Fox Crime
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53023.m3u8
-#EXTINF:-1 tvg-id="OSN TV Crime" tvg-name="" tvg-logo="" group-title="OSN",OSN TV Crime
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53024.m3u8
-#EXTINF:-1 tvg-id="OSN Movies Box Office 1" tvg-name="" tvg-logo="" group-title="OSN",OSN Movies Box Office 1
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53060.m3u8
-#EXTINF:-1 tvg-id="OSN Movies Box Office 2" tvg-name="" tvg-logo="" group-title="OSN",OSN Movies Box Office 2
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/48.m3u8
-#EXTINF:-1 tvg-id="BeIn Box Office 2" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Box Office 2
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53061.m3u8
-#EXTINF:-1 tvg-id="BeIn Box Office 3" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Box Office 3
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/49.m3u8
-#EXTINF:-1 tvg-id="BeIn Gourmet" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Gourmet
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53395.m3u8
-#EXTINF:-1 tvg-id="BeIn Discovery" tvg-name="" tvg-logo="" group-title="BeIn Sports",BeIn Discovery
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/54362.m3u8
-#EXTINF:-1 tvg-id="OSN Animal Planet" tvg-name="" tvg-logo="" group-title="OSN",OSN Animal Planet
-http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/50853.m3u8
