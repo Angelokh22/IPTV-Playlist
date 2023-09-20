@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (180p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (234p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (360p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (480p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (720p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (1080p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (auto)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
