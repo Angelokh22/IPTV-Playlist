@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (180p)
+#EXTINF:-1 tvg-name="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary" tvg-name="Nat Geo AD (180p)",
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
 #EXTINF:-1 tvg-name="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (234p)
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
