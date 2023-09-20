@@ -1,16 +1,23 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (180p)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (234p)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (360p)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (480p)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (720p)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (1080p)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (auto)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",AiRMAX TV PRO❤️
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️النسخة المدفوع AirMaxTV
+https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️مهم جدا للمملكة العربية السعودية
+https://github.com/virus457/sasa/raw/air99/sk.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️موقعنا www.vviruslove.com
+https://bit.ly/3qiSerg
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️كيفية الحصول على الكود تطبيق AirMax TV
+https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️ميزات تطبيق AirMaxTV
+https://bit.ly/43YRm8S
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️تحميل airmaxعلى amazon fire stick
+https://bit.ly/3KmjhJa
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️تحميل airmaxعلى اندرويد بوكس
+https://bit.ly/3Kskv5k
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️تحميل airmaxعلى الكمبيوتر
+https://bit.ly/3rYm5G5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="000قسم الدعم الفني للتطبيق",❤️تحميل airmaxعلى الشاشات الاندرويد
+https://bit.ly/3OG5wq7
