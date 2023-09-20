@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (180p)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (180p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (234p)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (234p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (360p)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (360p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (480p)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (480p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (720p)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (720p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (1080p)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary", Nat Geo AD (auto)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (auto)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 
@@ -220,39 +220,28 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="OTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OTV-.png" group-title="Lebanon",OTV Lebanon (720p)
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../276.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="Lebanon",TL Lebanon (720p)
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../283.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International m3u8
-http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.m3u8
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International ts
-http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.ts
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International rtmp
-http://line.team-tv.link:80/live/mutant007/UzskkVQyjP/19804.rtmp
+#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../282.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International Backup
-http://148.251.152.43:8080/egypt/tv/133
+#EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="LEBANON",Future
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../278.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (360p)
-https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_360p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687402401
-http://mysat-live.ercdn.net/lbccustom/lbccustom_360p-1687358040.ts?st=3ju1IA6gXq_O96s2c4sJdA&e=1687401401
+#EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="LEBANON",AlJadeed
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../280.m3u8
 
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (480p)
-https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_480p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (720p)
-https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
-#EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (Auto)
-https://muutube.sonmezalp.com/proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom.m3u8?st=0uYtzrkjxAb5DxNIb4mAWw&e=1687391097
 
 
 #EXTINF:-1 tvg-id="LB2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f37tXOU_CqcOWXwUM1ov0roR7xmJKdX5euzbyPI_S3Q3DYnRT7pIkeRstIhFAgvFkxc&usqp=CAU" group-title="Lebanon",LB2  (360p)
@@ -268,6 +257,11 @@ https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2
 
 #EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV
 https://proflix.app:8443/SENSES/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NBN Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nbnlebanon.jpg" group-title="Lebanon",NBN Lebanon
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../279.m3u8
 
 
 
@@ -361,7 +355,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc2.png" group-title="MBC Group",MBC 2
 # http-user-agent=<anything but not empty>
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../29.ts
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../29.m3u8
 http://149.18.45.19:8000/play/a080/index.m3u8
 
 
@@ -431,7 +425,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
 # http-user-agent=<anything but not empty>
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../30.ts
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../30.m3u8
 
 
 
@@ -602,7 +596,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
 # http-user-agent=<anything but not empty>
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../31.ts
+https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../31.m3u8
 http://149.18.45.19:8000/play/a081/index.m3u8
 
 
@@ -667,7 +661,6 @@ https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_9.m3u8
 #EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (Auto)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALKASS1.png" group-title="Al Kass",Al Kass One (340p)
