@@ -649,23 +649,23 @@ https://cdxaws-ak.akamaized.net/v1/channel/Al_Leaba/index_hls.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (144p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (144p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_10.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (252p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (252p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_7.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (288p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (288p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_6.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (360p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (360p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_5.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (468p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (468p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_4.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (576p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (576p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_3.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (720p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (720p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (1080p)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (1080p)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_9.m3u8
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="" group-title="MBC Group",Top-Gear (Auto)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg/revision/latest?cb=20190928235435" group-title="MBC Group",Top-Gear (Auto)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 
 
