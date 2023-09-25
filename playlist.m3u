@@ -1075,11 +1075,10 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 
 #EXTINF:-1 tvg-id="SSC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/SSC.png" group-title="SSC Sports",SSC 1 (1)
 http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6VTFORElERWdTRVE9OjQx/0a7e3cca-50fc-4667-a852-eb81f5899deb.m3u8
-
-
-
 #EXTINF:-1 tvg-id="SSC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/SSC.png" group-title="SSC Sports",SSC 1 (2)
 https://mo3ad@prod-ec-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/5Jl9a6tdLgEn0Qw1zcdx14aFuMxjFTEy0F8dkSZsHWbfGCGgyQTM9BBQRxTHyDg3-fjPDtruLt2hTXBRIL-u1A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="SSC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/SSC.png" group-title="SSC Sports",SSC 1 (3)
+https://cdn2.livehd720.com/hlsbeinafc/beinafc/playlist.m3u8
 
 
 
