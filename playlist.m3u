@@ -220,27 +220,27 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="OTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OTV-.png" group-title="Lebanon",OTV Lebanon (720p)
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../276.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=276
 
 
 
 #EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="Lebanon",TL Lebanon (720p)
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../283.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=283
 
 
 
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../282.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=282
 
 
 
 #EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="LEBANON",Future
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../278.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=278
 
 
 
 #EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="LEBANON",AlJadeed
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../280.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=280
 
 
 
@@ -292,6 +292,7 @@ https://youtube-dl-online.angelokh.repl.co/france24ar/720
 https://youtube-dl-online.angelokh.repl.co/france24ar/1080
 #EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (Auto)
 https://youtube-dl-online.angelokh.repl.co/france24ar/all
+# https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 
 
 
@@ -309,6 +310,7 @@ https://youtube-dl-online.angelokh.repl.co/france24fr/720
 https://youtube-dl-online.angelokh.repl.co/france24fr/1080
 #EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (Auto)
 https://youtube-dl-online.angelokh.repl.co/france24fr/all
+# https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
 
 
@@ -326,6 +328,7 @@ https://youtube-dl-online.angelokh.repl.co/france24en/720
 https://youtube-dl-online.angelokh.repl.co/france24en/1080
 #EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (Auto)
 https://youtube-dl-online.angelokh.repl.co/france24en/all
+# https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
 
@@ -356,8 +359,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc2.png" group-title="MBC Group",MBC 2
-# http-user-agent=<anything but not empty>
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../29.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=29
 http://149.18.45.19:8000/play/a080/index.m3u8
 
 
@@ -426,8 +428,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
-# http-user-agent=<anything but not empty>
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../30.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=30
 
 
 
@@ -597,8 +598,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 
 
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
-# http-user-agent=<anything but not empty>
-https://airmaxtv.online:443/kos.amk..elahmad.tv/elahmad.tv.kos.amk../31.m3u8
+https://youtube-dl-online.angelokh.repl.co/airmax?id=31
 http://149.18.45.19:8000/play/a081/index.m3u8
 
 
