@@ -114,12 +114,12 @@ https://live.angelokh.repl.co/stream/live/elahmad/lbci.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="LEBANON",Future
+#EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="Lebanon",Future
 https://youtube-dl-online.angelokh.repl.co/airmax?id=278
 
 
 
-#EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="LEBANON",AlJadeed
+#EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="Lebanon",AlJadeed
 https://youtube-dl-online.angelokh.repl.co/airmax?id=280
 
 
@@ -141,10 +141,10 @@ https://cdn.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.
 
 
 
-#EXTINF:-1 tvg-id="Aghani Aghani Radio" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="",Aghani Aghani Radio
+#EXTINF:-1 tvg-id="Aghani Aghani Radio" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="Lebanon",Aghani Aghani Radio
 http://cdn.nrjaudio.fm/audio1/lb/1/mp3.mp3
 
-#EXTINF:-1 tvg-id="Aghani Aghani TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="",Aghani Aghani TV
+#EXTINF:-1 tvg-id="Aghani Aghani TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="Lebanon",Aghani Aghani TV
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 
 
