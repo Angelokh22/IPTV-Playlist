@@ -169,6 +169,8 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 http://livetv.ktv.zone/20/play.m3u8
 #EXTINF:-1 tvg-id="gulli fr" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/gullihd.png" group-title="Kids",GULLI FR HD
 http://livetv.ktv.zone/120/play.m3u8
+#EXTINF:-1 tvg-id="gulli fr" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/gullihd.png" group-title="Kids",GULLI FR (Auto)
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
 
 
@@ -234,12 +236,12 @@ https://youtube-dl-online.angelokh.repl.co/airmax?id=282
 
 
 
-#EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="LEBANON",Future
+#EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="Lebanon",Future
 https://youtube-dl-online.angelokh.repl.co/airmax?id=278
 
 
 
-#EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="LEBANON",AlJadeed
+#EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="Lebanon",AlJadeed
 https://youtube-dl-online.angelokh.repl.co/airmax?id=280
 
 
@@ -603,23 +605,23 @@ http://149.18.45.19:8000/play/a081/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (144p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (144p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/4.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (252p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (252p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/7.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (288p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (288p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/8.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (360p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (360p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/9.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (468p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (468p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/10.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (576p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (576p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/1.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (720p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (720p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/2.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (1080p)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (1080p)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls/3.m3u8
-#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="MBC Group",Crime+ (Auto)
+#EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (Auto)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8
 
 
@@ -789,6 +791,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8
 https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="News",Al Jazeera Arabic (Auto)
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8
 
 
 
@@ -1080,8 +1083,11 @@ http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMD
 
 
 
-#EXTINF:-1 tvg-id="Aghani Aghani Radio" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="",Aghani Aghani Radio
+#EXTINF:-1 tvg-id="Aghani Aghani Radio" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="Lebanon",Aghani Aghani Radio
 http://cdn.nrjaudio.fm/audio1/lb/1/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="Aghani Aghani TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="Lebanon",Aghani Aghani TV
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 
 
 
