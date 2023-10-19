@@ -268,13 +268,13 @@ https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index
 
 
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassonehd.png" group-title="Al Kass",Al Kass One (Auto)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewp/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Two" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkasstwohd.png" group-title="Al Kass",Al Kass Two (Auto)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Three" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassthreehd.png" group-title="Al Kass",Al Kass Three (Auto)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3e/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3ea/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Four" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/alkassfourhd.png" group-title="Al Kass",Al Kass Four (Auto)
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist.m3u8
