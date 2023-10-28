@@ -371,28 +371,28 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff30370450
 
 
 
-#EXTINF:-1 tvg-id="Bloomberg Politics Live" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Politics Live
+#EXTINF:-1 tvg-id="Bloomberg Politics Live" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg Politics Live
 https://liveproduseast.global.ssl.fastly.net/pol/Channel-POL-AWS-virginia-1/Source-POL-240-1_live.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg BTV USA plus" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg BTV USA plus
+#EXTINF:-1 tvg-id="Bloomberg BTV USA plus" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg BTV USA plus
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg Asia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Asia
+#EXTINF:-1 tvg-id="Bloomberg Asia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg Asia Event" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Asia Event
+#EXTINF:-1 tvg-id="Bloomberg Asia Event" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg US Live Event" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg US Live Event
+#EXTINF:-1 tvg-id="Bloomberg US Live Event" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg US Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 
-#EXTINF:-1 tvg-id="US Bloomberg" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",US Bloomberg
+#EXTINF:-1 tvg-id="US Bloomberg" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",US Bloomberg
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg Europe" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Europe
+#EXTINF:-1 tvg-id="Bloomberg Europe" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg Australia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Australia
+#EXTINF:-1 tvg-id="Bloomberg Australia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="Bloomberg.com",Bloomberg Australia
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
 
