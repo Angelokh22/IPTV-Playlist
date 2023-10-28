@@ -252,12 +252,27 @@ http://149.18.45.19:8000/play/a081/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="MBC Movies" tvg-name="" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC Group",MBC Movies (Auto)
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Movies Action" tvg-name="" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC Group",MBC Movies Action (Auto)
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-name="" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC Group",MBC Movies Thriller (Auto)
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Crime+" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/logos_-Crime-/original" group-title="MBC Group",Crime+ (Auto)
 https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8
 
 
 
-#EXTINF:-1 tvg-id="The Game اللعبة" tvg-name="" tvg-logo="" group-title="MBC Group",The Game اللعبة (Auto)
+#EXTINF:-1 tvg-id="The Game اللعبة" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/bedour2/Logo_all-ba_W0/original" group-title="MBC Group",The Game اللعبة (Auto)
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Leaba/index_hls.m3u8
 
 
@@ -312,6 +327,11 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Al Ekhbaria" tvg-name="" tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" group-title="News",Al Ekhbaria (Auto)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (Auto)
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 
@@ -351,8 +371,44 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff30370450
 
 
 
+#EXTINF:-1 tvg-id="Bloomberg Politics Live" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Politics Live
+https://liveproduseast.global.ssl.fastly.net/pol/Channel-POL-AWS-virginia-1/Source-POL-240-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg BTV USA plus" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg BTV USA plus
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg Asia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg Asia Event" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Asia Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg US Live Event" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg US Live Event
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 tvg-id="US Bloomberg" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",US Bloomberg
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg Europe" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg Australia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BUSINESS-BLOOMBERG-TV.png" group-title="",Bloomberg Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+
+
+
 #EXTINF:-1 tvg-id="BeIn Sports Xtra EN" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" group-title="BeIn Sports",BeIn Sports Xtra EN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/foxsports.png" group-title="Fox",Fox Sports (Auto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D
+
+
+
+#EXTINF:-1 tvg-id="M6 France" tvg-name="" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="France",M6 France (Auto)
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="M6 International" tvg-name="" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",M6 International (Auto)
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 
 
 
@@ -365,6 +421,17 @@ https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&str
 
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aus.redbulltv.png" group-title="Sports",Red Bull TV (Auto)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Asharq Discovery" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/Logo_Alsharq_discovery/original" group-title="Documentary",Asharq Discovery (Auto)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Asharq Now" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1633753618145763328/TezNSMfF.jpg" group-title="Documentary",Asharq Now (Auto)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Asharq Radio" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1633753618145763328/TezNSMfF.jpg" group-title="Documentary",Asharq Radio (Auto)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-id="Asharq Documentary" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/Logo_Al_Thaqafeya/original" group-title="Documentary",Asharq Documentary (Auto)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 
 
 
