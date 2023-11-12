@@ -57,6 +57,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter
 http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter (Auto)
+https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/6ter.m3u8
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter SD
 https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36619&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter HD
@@ -171,6 +173,26 @@ https://youtube-dl-online.angelokh.repl.co/france24en/all
 
 #EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24enfrancais.png" group-title="News",France 24 French
 http://81.94.196.204/tsstreamer/France24_HD.ts
+
+
+
+#EXTINF:-1 tvg-id="France 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="News",France 2 (Auto)
+https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv2.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 (Auto)
+https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv3.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="News",France 4 (Auto)
+https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv4.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="News",France 5 (Auto)
+https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv5.m3u8
 
 
 
@@ -432,6 +454,11 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 #EXTINF:-1 tvg-id="Asharq Documentary" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/Logo_Al_Thaqafeya/original" group-title="Documentary",Asharq Documentary (Auto)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TCL" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_of_the_TCL_Corporation.svg/1200px-Logo_of_the_TCL_Corporation.svg.png" group-title="Documentary",TLC (Auto)
+https://mhdtvworld.me/delta/discovery/api/TLC.m3u8
 
 
 
