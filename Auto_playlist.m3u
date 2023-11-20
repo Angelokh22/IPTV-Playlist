@@ -178,11 +178,13 @@ http://81.94.196.204/tsstreamer/France24_HD.ts
 
 #EXTINF:-1 tvg-id="France 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="News",France 2 (Auto)
 https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv2.m3u8
+#https://51.159.195.63/v1/session/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8?User-Agent=ios&__cpo=aHR0cHM6Ly9hcGkuc3NhaS5mdHZlbi5mcg
 
 
 
 #EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 (Auto)
 https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv3.m3u8
+#https://sv1.data-stream.top/e29e51687acfb88d6839fb110697e8c5bd7d4b2d8218a15e91ced574171c7067/hls/francetv3.m3u8
 
 
 
@@ -598,3 +600,30 @@ https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&str
 #EXTINF:-1 tvg-id="SSC Extra 3 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA3-(1)/original" group-title="SSC Sports",SSC Extra 3 4K
 
 #EXTINF:-1 tvg-id="SSC News 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/NEWS-(1)/original" group-title="SSC Sports",SSC News 4K
+
+
+
+#EXTINF:-1 tvg-id="BeIn Sports 1" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 1 (Auto)
+https://beinstream.angelokh.repl.co/beins1-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 2" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 2 (Auto)
+https://beinstream.angelokh.repl.co/beins2-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 3" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 3 (Auto)
+https://beinstream.angelokh.repl.co/beins3-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 4" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 4 (Auto)
+https://beinstream.angelokh.repl.co/beins4-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 5" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 5 (Auto)
+https://beinstream.angelokh.repl.co/beins5-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 6" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 6 (Auto)
+https://beinstream.angelokh.repl.co/beins6-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 7" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 7 (Auto)
+https://beinstream.angelokh.repl.co/beins7-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 8" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 8 (Auto)
+https://beinstream.angelokh.repl.co/beins8-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports 9" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 9 (Auto)
+https://beinstream.angelokh.repl.co/beins9-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports Xtra 1" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports Xtra 1 (Auto)
+https://beinstream.angelokh.repl.co/beinx1-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports Xtra 2" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports Xtra 2 (Auto)
+https://beinstream.angelokh.repl.co/beinx2-multi.m3u8
+#EXTINF:-1 tvg-id="BeIn Sports Xtra 3" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports Xtra 3 (Auto)
+https://beinstream.angelokh.repl.co/beinx3-multi.m3u8
