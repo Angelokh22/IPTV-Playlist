@@ -603,27 +603,27 @@ https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&str
 
 
 
-#EXTINF:-1 tvg-id="BeIn Sports 1" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 1 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd1.png" group-title="BeIn Multi",BeIn Sports 1 (Auto)
 https://beinstream.angelokh.repl.co/beins1-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 2" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 2 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd2.png" group-title="BeIn Multi",BeIn Sports 2 (Auto)
 https://beinstream.angelokh.repl.co/beins2-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 3" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 3 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd3.png" group-title="BeIn Multi",BeIn Sports 3 (Auto)
 https://beinstream.angelokh.repl.co/beins3-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 4" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 4 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd4.png" group-title="BeIn Multi",BeIn Sports 4 (Auto)
 https://beinstream.angelokh.repl.co/beins4-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 5" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 5 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd5.png" group-title="BeIn Multi",BeIn Sports 5 (Auto)
 https://beinstream.angelokh.repl.co/beins5-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 6" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 6 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 6" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd6.png" group-title="BeIn Multi",BeIn Sports 6 (Auto)
 https://beinstream.angelokh.repl.co/beins6-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 7" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 7 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 7" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd7.png" group-title="BeIn Multi",BeIn Sports 7 (Auto)
 https://beinstream.angelokh.repl.co/beins7-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 8" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 8 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 8" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd8.png" group-title="BeIn Multi",BeIn Sports 8 (Auto)
 https://beinstream.angelokh.repl.co/beins8-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports 9" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports 9 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports 9" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd9.png" group-title="BeIn Multi",BeIn Sports 9 (Auto)
 https://beinstream.angelokh.repl.co/beins9-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports Xtra 1" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports Xtra 1 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports Xtra 1" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BeIn Multi",BeIn Sports Xtra 1 (Auto)
 https://beinstream.angelokh.repl.co/beinx1-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports Xtra 2" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports Xtra 2 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports Xtra 2" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BeIn Multi",BeIn Sports Xtra 2 (Auto)
 https://beinstream.angelokh.repl.co/beinx2-multi.m3u8
-#EXTINF:-1 tvg-id="BeIn Sports Xtra 3" tvg-name="" tvg-logo="" group-title="BeIn Multi",BeIn Sports Xtra 3 (Auto)
+#EXTINF:-1 tvg-id="BeIn Sports Xtra 3" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png" group-title="BeIn Multi",BeIn Sports Xtra 3 (Auto)
 https://beinstream.angelokh.repl.co/beinx3-multi.m3u8
