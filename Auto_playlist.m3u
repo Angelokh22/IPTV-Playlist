@@ -177,25 +177,27 @@ http://81.94.196.204/tsstreamer/France24_HD.ts
 
 
 #EXTINF:-1 tvg-id="France 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="News",France 2 (Auto)
-https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv2.m3u8
-#https://51.159.195.63/v1/session/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8?User-Agent=ios&__cpo=aHR0cHM6Ly9hcGkuc3NhaS5mdHZlbi5mcg
+https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8?aws.sessionId=39182bef-7327-4711-9f2f-f23b954dc9f8
 
 
 
 #EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 (Auto)
-https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv3.m3u8
-#https://sv1.data-stream.top/e29e51687acfb88d6839fb110697e8c5bd7d4b2d8218a15e91ced574171c7067/hls/francetv3.m3u8
+https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8?aws.sessionId=02126c6a-fa44-4c19-8618-d45e4b2abde4
 
 
 
 #EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="News",France 4 (Auto)
-https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv4.m3u8
+https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https%3A%2F%2Fsimulcast-p.ftven.fr%2Fsimulcast%2FFrance_4%2Fhls_fr4%2Findex.m3u8
 
 
 
 #EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="News",France 5 (Auto)
-https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/francetv5.m3u8
+https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance5OTTEMTConfiguration/out/v1/46920d328ac14465af4ab26c2b853fdd/index.m3u8?aws.sessionId=f907a495-40b9-4f0f-9ab1-8dbdbf0693d0
 
+
+
+#EXTINF:-1 tvg-id="TV 5 Monde Info" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1597105628693-49Z6WORVIQU5I0YY6M4B/network_tv5+info.png" group-title="News",TV 5 Monde Info (Auto)
+https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (Auto)
