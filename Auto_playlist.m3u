@@ -59,13 +59,13 @@ http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter (Auto)
 https://sv1.data-stream.top/0c3504cfbb4a81cf5c1a2aa1abd9cbcf40a7bd0f5d639869004bab6301e06f23/hls/6ter.m3u8
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36619&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36619&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=26619&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=26619&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter UFD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=26377&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=26377&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="Drama",6ter H265
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36731&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36731&is_https=&portal=gauloise.cc&portal_port=80
 
 
 
@@ -99,7 +99,7 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="OTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/OTV-.png" group-title="Lebanon",OTV Lebanon (720p)
-https://youtube-dl-online.angelokh.repl.co/airmax?id=276
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=276
 
 
 
@@ -109,19 +109,19 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International
-https://youtube-dl-online.angelokh.repl.co/airmax?id=282
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=282
 #EXTINF:-1 tvg-id="LBC International" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/lbcinternational.png" group-title="Lebanon",LBC International (Auto)
-https://live.angelokh.repl.co/stream/live/elahmad/lbci.m3u8
+https://a501397b-8870-45bf-b6a6-b9846be8a81c-00-1dxs0u2c7kya3.global.replit.dev/stream/live/elahmad/lbci.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Future" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/futuretv.jpg" group-title="Lebanon",Future
-https://youtube-dl-online.angelokh.repl.co/airmax?id=278
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=278
 
 
 
 #EXTINF:-1 tvg-id="AlJadeed" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aljadeed.png" group-title="Lebanon",AlJadeed
-https://youtube-dl-online.angelokh.repl.co/airmax?id=280
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=280
 
 
 
@@ -143,7 +143,7 @@ https://cdn.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.
 
 
 #EXTINF:-1 tvg-id="Aghani Aghani Radio" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="Lebanon",Aghani Aghani Radio
-https://live.angelokh.repl.co/stream/audio/aghani/mp3.mp3
+https://a501397b-8870-45bf-b6a6-b9846be8a81c-00-1dxs0u2c7kya3.global.replit.dev/stream/audio/aghani/mp3.mp3
 
 #EXTINF:-1 tvg-id="Aghani Aghani TV" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/aghanitv.jpg" group-title="Lebanon",Aghani Aghani TV
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
@@ -156,17 +156,17 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 
 #EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24arabic.png" group-title="News",France 24 Arabic (Auto)
-https://youtube-dl-online.angelokh.repl.co/france24ar/all
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/france24ar/all
 
 
 
 #EXTINF:-1 tvg-id="France 24 French" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="News",France 24 French (Auto)
-https://youtube-dl-online.angelokh.repl.co/france24fr/all
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/france24fr/all
 
 
 
 #EXTINF:-1 tvg-id="France 24 English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france24english.png" group-title="News",France 24 English (Auto)
-https://youtube-dl-online.angelokh.repl.co/france24en/all
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/france24en/all
 
 
 
@@ -176,27 +176,27 @@ http://81.94.196.204/tsstreamer/France24_HD.ts
 
 
 #EXTINF:-1 tvg-id="France 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="News",France 2 (Auto)
-https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8
+https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 FR Geo-Blocked (Auto)
-https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8
+https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="News",France 4 FR Geo-Blocked (Auto)
-https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
+https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="News",France 5 FR Geo-Blocked (Auto)
-https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance5OTTEMTConfiguration/out/v1/46920d328ac14465af4ab26c2b853fdd/index.m3u8
+https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance5OTTEMTConfiguration/out/v1/46920d328ac14465af4ab26c2b853fdd/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TV 5 Monde Info" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1597105628693-49Z6WORVIQU5I0YY6M4B/network_tv5+info.png" group-title="News",TV 5 Monde Info (Auto)
-https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
+https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
 
 
 
@@ -206,7 +206,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc2.png" group-title="MBC Group",MBC 2
-https://youtube-dl-online.angelokh.repl.co/airmax?id=29
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=29
 http://149.18.45.19:8000/play/a080/index.m3u8
 
 
@@ -227,7 +227,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
-https://youtube-dl-online.angelokh.repl.co/airmax?id=30
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=30
 
 
 
@@ -273,7 +273,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 
 
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
-https://youtube-dl-online.angelokh.repl.co/airmax?id=31
+https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=31
 http://149.18.45.19:8000/play/a081/index.m3u8
 
 
@@ -442,9 +442,9 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 
 
 #EXTINF:-1 tvg-id="Sky Sports Formula 1 (1)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsf1.png" group-title="Sky Channels",Sky Sports Fomula 1 (1)
-https://live.angelokh.repl.co/stream/live/skysports/formula1/playlist.m3u8
+https://a501397b-8870-45bf-b6a6-b9846be8a81c-00-1dxs0u2c7kya3.global.replit.dev/stream/live/skysports/formula1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Formula 1 (2)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsf1.png" group-title="Sky Channels",Sky Sports Fomula 1 (2)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=341458&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=341458&is_https=&portal=gauloise.cc&portal_port=80
 
 
 
@@ -516,90 +516,90 @@ http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMD
 
 
 #EXTINF:-1 tvg-id"Canal+ Formula 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-FORMULA1.jpeg" group-title="Canal+",Canal+ Formula 1 (1)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327371&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327371&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id"Canal+ Formula 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-FORMULA1.jpeg" group-title="Canal+",Canal+ Formula 1 (2)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327536&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327536&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id"Canal+ Formula 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-FORMULA1.jpeg" group-title="Canal+",Canal+ Formula 1 (3)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327543&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327543&is_https=&portal=gauloise.cc&portal_port=80
 
 
 
 #EXTINF:-1 tvg-id="BeIn Sports 1 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1.png" group-title="BeIn Sports",BeIn Sports 1 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=3067&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=3067&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports 2 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2.png" group-title="BeIn Sports",BeIn Sports 2 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=3068&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=3068&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports 3 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3.png" group-title="BeIn Sports",BeIn Sports 3 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=18375&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=18375&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports 4 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports4.png" group-title="BeIn Sports",BeIn Sports 4 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36414&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36414&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports 5 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports5.png" group-title="BeIn Sports",BeIn Sports 5 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36417&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36417&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports 6 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports6.png" group-title="BeIn Sports",BeIn Sports 6 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36423&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36423&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports 7 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports7.png" group-title="BeIn Sports",BeIn Sports 7 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36976&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=36976&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports Xtra 1 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports7.png" group-title="BeIn Sports",BeIn Sports Xtra 1 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=162382&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=162382&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports Xtra 2 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports7.png" group-title="BeIn Sports",BeIn Sports Xtra 2 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=162383&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=162383&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="BeIn Sports Xtra 3 AR (SD)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/beinsports7.png" group-title="BeIn Sports",BeIn Sports Xtra 3 AR (SD)
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=162384&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=162384&is_https=&portal=gauloise.cc&portal_port=80
 
 
 
 #EXTINF:-1 tvg-id="SSC 1 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original" group-title="SSC Sports",SSC 1 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350556&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350556&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 2 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_2/original" group-title="SSC Sports",SSC 2 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350557&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350557&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 3 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_3/original" group-title="SSC Sports",SSC 3 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350558&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350558&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 4 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_4/original" group-title="SSC Sports",SSC 4 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350559&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350559&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 5 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_5/original" group-title="SSC Sports",SSC 5 SD
 
 #EXTINF:-1 tvg-id="SSC Extra 1 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA1-(1)/original" group-title="SSC Sports",SSC Extra 1 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350560&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350560&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 2 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/retg/original" group-title="SSC Sports",SSC Extra 2 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350561&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350561&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 3 SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA3-(1)/original" group-title="SSC Sports",SSC Extra 3 SD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350562&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350562&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC News SD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/NEWS-(1)/original" group-title="SSC Sports",SSC News SD
 
 
 
 #EXTINF:-1 tvg-id="SSC 1 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original" group-title="SSC Sports",SSC 1 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350548&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350548&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 2 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_2/original" group-title="SSC Sports",SSC 2 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350549&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350549&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 3 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_3/original" group-title="SSC Sports",SSC 3 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350550&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350550&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 4 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_4/original" group-title="SSC Sports",SSC 4 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350551&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350551&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 5 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_5/original" group-title="SSC Sports",SSC 5 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350552&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350552&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA1-(1)/original" group-title="SSC Sports",SSC Extra 1 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350553&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350553&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 2 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/retg/original" group-title="SSC Sports",SSC Extra 2 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350554&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350554&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 3 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA3-(1)/original" group-title="SSC Sports",SSC Extra 3 HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350555&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350555&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC News HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/NEWS-(1)/original" group-title="SSC Sports",SSC News HD
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350547&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350547&is_https=&portal=gauloise.cc&portal_port=80
 
 
 
 #EXTINF:-1 tvg-id="SSC 1 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original" group-title="SSC Sports",SSC 1 4K
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350539&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350539&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 2 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_2/original" group-title="SSC Sports",SSC 2 4K
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350540&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350540&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 3 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_3/original" group-title="SSC Sports",SSC 3 4K
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350541&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350541&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 4 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_4/original" group-title="SSC Sports",SSC 4 4K
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350542&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350542&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC 5 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_5/original" group-title="SSC Sports",SSC 5 4K
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350543&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350543&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 1 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA1-(1)/original" group-title="SSC Sports",SSC Extra 1 4K
-https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350544&is_https=&portal=gauloise.cc&portal_port=80
+https://49ff06e8-0e9f-4da2-9a7e-f7879ef87d31-00-356g3u63zvktv.global.replit.dev/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=350544&is_https=&portal=gauloise.cc&portal_port=80
 #EXTINF:-1 tvg-id="SSC Extra 2 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/retg/original" group-title="SSC Sports",SSC Extra 2 4K
 
 #EXTINF:-1 tvg-id="SSC Extra 3 4K" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA3-(1)/original" group-title="SSC Sports",SSC Extra 3 4K
@@ -609,63 +609,63 @@ https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&str
 
 
 #EXTINF:-1 tvg-id="SSC 1" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original" group-title="SSC Sports Multi",SSC 1 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=1
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=1
 #EXTINF:-1 tvg-id="SSC 2" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_2/original" group-title="SSC Sports Multi",SSC 2 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=2
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=2
 #EXTINF:-1 tvg-id="SSC 3" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_3/original" group-title="SSC Sports Multi",SSC 3 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=3
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=3
 #EXTINF:-1 tvg-id="SSC 4" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_4/original" group-title="SSC Sports Multi",SSC 4 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=4
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=4
 #EXTINF:-1 tvg-id="SSC 5" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/SSC1_HD_Logo_5/original" group-title="SSC Sports Multi",SSC 5 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=5
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=5
 #EXTINF:-1 tvg-id="SSC Extra 1" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA1-(1)/original" group-title="SSC Sports Multi",SSC Extra 1 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=ex1
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=ex1
 #EXTINF:-1 tvg-id="SSC Extra 2" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/retg/original" group-title="SSC Sports Multi",SSC Extra 2 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=ex2
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=ex2
 #EXTINF:-1 tvg-id="SSC Extra 3" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/EXTRA3-(1)/original" group-title="SSC Sports Multi",SSC Extra 3 (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=ex3
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=ex3
 #EXTINF:-1 tvg-id="SSC News" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/General/NEWS-(1)/original" group-title="SSC Sports Multi",SSC News (Auto)
-https://sscstream.angelokh.repl.co/ssc-multi.m3u8?ch=news
+https://0708676e-448d-40d2-aa61-35c68b235f6a-00-2esmbrf23zann.janeway.replit.dev/ssc-multi.m3u8?ch=news
 
 
 
 #EXTINF:-1 tvg-id="BeIn Sports 1" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 1 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s1
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s1
 #EXTINF:-1 tvg-id="BeIn Sports 2" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 2 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s2
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s2
 #EXTINF:-1 tvg-id="BeIn Sports 3" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 3 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s3
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s3
 #EXTINF:-1 tvg-id="BeIn Sports 4" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 4 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s4
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s4
 #EXTINF:-1 tvg-id="BeIn Sports 5" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 5 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s5
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s5
 #EXTINF:-1 tvg-id="BeIn Sports 6" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 6 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s6
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s6
 #EXTINF:-1 tvg-id="BeIn Sports 7" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports 7 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s7
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s7
 #EXTINF:-1 tvg-id="BeIn Sports 8" tvg-name="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD8.png" group-title="BeIn Media Group Multi",BeIn Sports 8 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s8
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s8
 #EXTINF:-1 tvg-id="BeIn Sports 9" tvg-name="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD9.png" group-title="BeIn Media Group Multi",BeIn Sports 9 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=s9
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=s9
 #EXTINF:-1 tvg-id="BeIn Sports Xtra 1" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports Xtra 1 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=x1
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=x1
 #EXTINF:-1 tvg-id="BeIn Sports Xtra 2" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports Xtra 2 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=x2
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=x2
 #EXTINF:-1 tvg-id="BeIn Sports Xtra 3" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png" group-title="BeIn Media Group Multi",BeIn Sports Xtra 3 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=x3
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=x3
 #EXTINF:-1 tvg-id="BeIn Sports France 1" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports France 1 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=sf1
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=sf1
 #EXTINF:-1 tvg-id="BeIn Sports France 2" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports France 2 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=sf2
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=sf2
 #EXTINF:-1 tvg-id="BeIn Sports France 3" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports France 3 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=sf3
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=sf3
 #EXTINF:-1 tvg-id="BeIn Sports News" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports News (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=news
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=news
 #EXTINF:-1 tvg-id="BeIn Sports HD" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports HD (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=hd
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=hd
 #EXTINF:-1 tvg-id="BeIn Sports English 1" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports English 1 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=e1
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=e1
 #EXTINF:-1 tvg-id="BeIn Sports English 2" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports English 2 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=e2
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=e2
 #EXTINF:-1 tvg-id="BeIn Sports English 3" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="BeIn Media Group Multi",BeIn Sports English 3 (Auto)
-https://beinstream.angelokh.repl.co/bein-multi.m3u8?ch=e3
+https://75809e7b-bd62-4218-8033-b86d8e9febf2-00-3aft0wa3o5sex.kirk.replit.dev/bein-multi.m3u8?ch=e3
