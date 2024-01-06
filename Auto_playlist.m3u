@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (auto)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/NationalGeographicHDChannel/HLS/variant.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (Auto)
@@ -181,24 +180,24 @@ https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/da
 
 
 
-#EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 (Auto)
+#EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 FR Geo-Blocked (Auto)
 https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="News",France 4 (Auto)
+#EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="News",France 4 FR Geo-Blocked (Auto)
 https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
-https://simulcast-p.ftven.fr/ZXhwPTE3MDEwMTU1Njd+YWNsPSUyZip+aG1hYz00MDhhNjRkMmRhNzkzYjAyNTBiM2ZkNGU2YTgxZjNmMzU5Y2VkOGNjMjU0MWJhZjUzYzE1ZWM4MGFjODcwYTY4/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1700994567~acl=%2f*~hmac=dce19a53d3bff239d7652606238b50c566ec0fadb832daf4f00facac2f09b972
 
 
 
-#EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="News",France 5 (Auto)
+#EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="News",France 5 FR Geo-Blocked (Auto)
 https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance5OTTEMTConfiguration/out/v1/46920d328ac14465af4ab26c2b853fdd/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TV 5 Monde Info" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1597105628693-49Z6WORVIQU5I0YY6M4B/network_tv5+info.png" group-title="News",TV 5 Monde Info (Auto)
 https://hdfauthftvenfr.angelokh.repl.co/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (Auto)
@@ -310,19 +309,19 @@ https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index
 
 
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassonehd.png" group-title="Al Kass",Al Kass One (Auto)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1laq/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Two" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkasstwohd.png" group-title="Al Kass",Al Kass Two (Auto)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laq/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Three" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/logos/alkassthreehd.png" group-title="Al Kass",Al Kass Three (Auto)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laq/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Four" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/alkassfourhd.png" group-title="Al Kass",Al Kass Four (Auto)
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Five" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/AL-KASS-5-HD.png" group-title="Al Kass",Al Kass Five (Auto)
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass Six" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_kass_qa_6.png" group-title="Al Kass",Al Kass Six (Auto)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6laq/master.m3u8
