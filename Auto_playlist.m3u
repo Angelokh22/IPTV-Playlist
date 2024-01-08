@@ -4,7 +4,6 @@
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/NationalGeographicHDChannel/HLS/variant.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (Auto)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -209,6 +208,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbc2.png" group-title="MBC Group",MBC 2
 https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=29
 http://149.18.45.19:8000/play/a080/index.m3u8
+http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8
 
 
 
@@ -229,6 +229,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
 https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=30
+http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/204.m3u8
 
 
 
@@ -276,6 +277,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
 https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=31
 http://149.18.45.19:8000/play/a081/index.m3u8
+http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/201.m3u8
 
 
 
