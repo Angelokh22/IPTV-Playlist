@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (auto)
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeo-abudhabi-hd.png" group-title="Documentary",Nat Geo AD (auto)
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/NationalGeographicHDChannel/HLS/variant.m3u8
 
 
