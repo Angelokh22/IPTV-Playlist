@@ -202,7 +202,6 @@ https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/
 
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-1/original" group-title="MBC Group",MBC 1 (Auto)
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 
 
 
@@ -228,7 +227,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 
 
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcaction.png" group-title="MBC Group",MBC Action
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-action/original" group-title="MBC Group",MBC Action
 https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=30
 http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/204.m3u8
 
@@ -264,7 +263,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 
 
 
-#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_PERSIA_HD.png" group-title="MBC Group",MBC Persia (Auto)
+#EXTINF:-1 tvg-id="MBC Persia" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-persia/original" group-title="MBC Group",MBC Persia (Auto)
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 
@@ -275,7 +274,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 
 
 
-#EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mbcmax.png" group-title="MBC Group",MBC Max
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-max/original" group-title="MBC Group",MBC Max
 https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/airmax?id=31
 http://149.18.45.19:8000/play/a081/index.m3u8
 http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/201.m3u8
@@ -288,13 +287,11 @@ https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index
 
 
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logo_movies_action/original" group-title="MBC Group",MBC Movies Action (Auto)
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logos_movies_thriller/original" group-title="MBC Group",MBC Movies Thriller (Auto)
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 
