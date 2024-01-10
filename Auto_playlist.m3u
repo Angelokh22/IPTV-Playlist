@@ -39,7 +39,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Spacetoon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SPACE-TOON-1.png" group-title="Kids",Spacetoon (Auto)
+#EXTINF:-1 tvg-id="Spacetoon" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/spacetoon/original" group-title="Kids",Spacetoon (Auto)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 
@@ -49,7 +49,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 
 
-#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TIJI_HD.png" group-title="Kids",Tiji FR (Auto)
+#EXTINF:-1 tvg-id="Tiji FR" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/Abd/Jan/m6-images/Tigi_Logo/original" group-title="Kids",Tiji FR (Auto)
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
 
@@ -83,7 +83,7 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 
 
 
-#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-GULLI-ARABIC.png" group-title="Kids",GULLI AR (Auto)
+#EXTINF:-1 tvg-id="gulli ar" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/Abd/Jan/m6-images/GULLI_LOGO/original" group-title="Kids",GULLI AR (Auto)
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 
 
@@ -200,8 +200,9 @@ https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/
 
 
 
-#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_HD.png" group-title="MBC Group",MBC 1 (Auto)
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-1/original" group-title="MBC Group",MBC 1 (Auto)
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 
 
 
@@ -212,17 +213,17 @@ http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_3_HD.png" group-title="MBC Group",MBC 3 (Auto)
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-3-logo/original" group-title="MBC Group",MBC 3 (Auto)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_4_HD.png" group-title="MBC Group",MBC 4 (Auto)
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-4/original" group-title="MBC Group",MBC 4 (Auto)
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_5_HD.png" group-title="MBC Group",MBC 5 (Auto)
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-5/original" group-title="MBC Group",MBC 5 (Auto)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
 
@@ -233,32 +234,32 @@ http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/204.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_BOLLYWOOD_HD.png" group-title="MBC Group",MBC Bollywood (Auto)
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-bollywood/original" group-title="MBC Group",MBC Bollywood (Auto)
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_HD.png" group-title="MBC Group",MBC Drama (Auto)
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-drama/original" group-title="MBC Group",MBC Drama (Auto)
 https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/MBC-FM.jpg" group-title="MBC Group",MBC FM (Auto)
+#EXTINF:-1 tvg-id="MBC FM" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/New-Thumbs/karim_2021_nov/Mbc-Fm-Live-logo2/original" group-title="MBC Group",MBC FM (Auto)
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_IRAQ_HD.png" group-title="MBC Group",MBC Iraq (Auto)
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-iraq/original" group-title="MBC Group",MBC Iraq (Auto)
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_1.png" group-title="MBC Group",MBC Masr 1 (Auto)
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-msr-1/original" group-title="MBC Group",MBC Masr 1 (Auto)
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_MASR_2.png" group-title="MBC Group",MBC Masr 2 (Auto)
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-msr-2/original" group-title="MBC Group",MBC Masr 2 (Auto)
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 
@@ -268,7 +269,7 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 
 
 
-#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MBC_DRAMA_PLUS_HD.png" group-title="MBC Group",MBC Drama Plus (Auto)
+#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-drama-plus/original" group-title="MBC Group",MBC Drama Plus (Auto)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 
@@ -281,18 +282,20 @@ http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/201.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Movies" tvg-name="" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC Group",MBC Movies (Auto)
+#EXTINF:-1 tvg-id="MBC Movies" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/movies_logo/original" group-title="MBC Group",MBC Movies (Auto)
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Movies Action" tvg-name="" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC Group",MBC Movies Action (Auto)
+#EXTINF:-1 tvg-id="MBC Movies Action" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logo_movies_action/original" group-title="MBC Group",MBC Movies Action (Auto)
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-name="" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC Group",MBC Movies Thriller (Auto)
+#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logos_movies_thriller/original" group-title="MBC Group",MBC Movies Thriller (Auto)
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 
 
@@ -306,7 +309,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Al_Leaba/index_hls.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/topgear/images/6/60/Top_Gear_Logo.jpg" group-title="MBC Group",Top-Gear (Auto)
+#EXTINF:-1 tvg-id="Top-Gear" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/slider/Randa/Top_Gear_logo/original" group-title="MBC Group",Top Gear (Auto)
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 
 
@@ -332,12 +335,12 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6laq/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_ARABIA_HD.png" group-title="News",Al Arabiya (Auto)
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amjad/oct/alarabya_logo/original" group-title="News",Al Arabiya (Auto)
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AL_HADATH_HD.png" group-title="News",Al Hadath (Auto)
+#EXTINF:-1 tvg-id="Al Hadath" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/untitled0/LogoEN_alhadath/original" group-title="News",Al Hadath (Auto)
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 
 
@@ -359,17 +362,17 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Al Ekhbaria" tvg-name="" tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" group-title="News",Al Ekhbaria (Auto)
+#EXTINF:-1 tvg-id="Al Ekhbaria" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/jan/al_ikhbaria_channel_logo/original" group-title="News",Al Ekhbaria (Auto)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/EURO_NEWS.png" group-title="News",Euro News English (Auto)
+#EXTINF:-1 tvg-id="Euro News English" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Feb/logo_template_En/original" group-title="News",Euro News English (Auto)
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="logo.protv.cc/picons/iptvlogos/EURONEWS_HD.png" group-title="News",Euro News French (Auto)
+#EXTINF:-1 tvg-id="Euro News French" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Feb/logo_template_FR/original" group-title="News",Euro News French (Auto)
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 
 
@@ -439,7 +442,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 
 #EXTINF:-1 tvg-id="M6 France" tvg-name="" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="France",M6 France (Auto)
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-id="M6 International" tvg-name="" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",M6 International (Auto)
+#EXTINF:-1 tvg-id="M6 International" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/Abd/Jan/m6-images/m6-international-logo/original" group-title="France",M6 International (Auto)
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 
 
@@ -458,7 +461,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="Asharq Discovery" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/Logo_Alsharq_discovery/original" group-title="Documentary",Asharq Discovery (Auto)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Asharq Now" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1633753618145763328/TezNSMfF.jpg" group-title="Documentary",Asharq Now (Auto)
+#EXTINF:-1 tvg-id="Asharq News" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2021/FEB/sharq/ashraqLogo-Templet/original" group-title="Documentary",Asharq News (Auto)
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Asharq Radio" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1633753618145763328/TezNSMfF.jpg" group-title="Documentary",Asharq Radio (Auto)
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
