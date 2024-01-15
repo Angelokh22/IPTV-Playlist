@@ -4,6 +4,7 @@
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/NationalGeographicHDChannel/HLS/variant.m3u8
 
 
+
 #EXTINF:-1 tvg-id="Fox News Now" tvg-name="" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_NEWS_HD.png" group-title="Fox MEDIA",Fox News Now (Auto)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -130,10 +131,18 @@ https://cllive.itworkscdn.net/lbcdramalive/token=nva=1687357820~dirs=1~hash=0ac2
 
 
 
-#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Server 1
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV SamaFlix Server 1
 http://main2.samaitv.net:12101/channel0/index.m3u8
-#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Server 2
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV SamaFlix Server 2
 http://main.samaitv.net:12101/channel0/index.m3u8
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Main (https)
+https://sensestv.com:8443/sensestv/index.m3u8?token=sensesweb
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Al Arabia (https)
+https://sensestv.com:8443/sensestvar/index.m3u8?token=sensesweb
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Main (http)
+http://sensestv.com:8080/sensestv/index.m3u8?token=sensesweb
+#EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Al Arabia (http)
+http://sensestv.com:8080/sensestvar/index.m3u8?token=sensesweb
 
 
 
@@ -212,13 +221,18 @@ http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-3-logo/original" group-title="MBC Group",MBC 3 (Auto)
+#EXTINF:-1 tvg-id="MBC 3 HD" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-3-logo/original" group-title="MBC Group",MBC 3 HD (Auto)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MBC 3 EU" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-3-logo/original" group-title="MBC Group",MBC 3 EU (Auto)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-4/original" group-title="MBC Group",MBC 4 (Auto)
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
 
 
@@ -255,6 +269,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-msr-1/original" group-title="MBC Group",MBC Masr 1 (Auto)
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
 
 
