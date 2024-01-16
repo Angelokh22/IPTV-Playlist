@@ -90,11 +90,13 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 
 
 #EXTINF:-1 tvg-id="MTV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/mtvlebanon.png" group-title="Lebanon",MTV Lebanon (Auto)
+#EXTVLCOPT:http-user-agent=Chrome
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ONE TV Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV-LEBANON.png" group-title="Lebanon",ONE TV Lebanon (Auto)
+#EXTVLCOPT:http-user-agent=Chrome
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 
@@ -105,6 +107,7 @@ https://27a07b7f-5807-4188-9e60-07db86c9dcb7-00-oyefvobv5wki.picard.replit.dev/a
 
 
 #EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="Lebanon",TL Lebanon (Auto)
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
 
@@ -136,18 +139,19 @@ http://main2.samaitv.net:12101/channel0/index.m3u8
 #EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV SamaFlix Server 2
 http://main.samaitv.net:12101/channel0/index.m3u8
 #EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Main (https)
-https://sensestv.com:8443/sensestv/index.m3u8?token=sensesweb
+https://31.14.40.58:8443/sensestv/index.m3u8?token=sensesweb
 #EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Al Arabia (https)
-https://sensestv.com:8443/sensestvar/index.m3u8?token=sensesweb
+https://31.14.40.58:8443/sensestvar/index.m3u8?token=sensesweb
 #EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Main (http)
-http://sensestv.com:8080/sensestv/index.m3u8?token=sensesweb
+http://31.14.40.58:8080/sensestv/index.m3u8?token=sensesweb
 #EXTINF:-1 tvg-id="Senses TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/custom_icons/LBN/SensesTV.jpg" group-title="Lebanon",Senses TV Al Arabia (http)
-http://sensestv.com:8080/sensestvar/index.m3u8?token=sensesweb
+http://31.14.40.58:8080/sensestvar/index.m3u8?token=sensesweb
 
 
 
 #EXTINF:-1 tvg-id="NBN Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nbnlebanon.jpg" group-title="Lebanon",NBN Lebanon
-https://cdn.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
 
 
 
@@ -184,28 +188,105 @@ http://81.94.196.204/tsstreamer/France24_HD.ts
 
 
 
-#EXTINF:-1 tvg-id="France 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="News",France 2 (Auto)
+#EXTINF:-1 tvg-id="France 2" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="France",France 2 (Auto)
 https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="News",France 3 FR Geo-Blocked (Auto)
+#EXTINF:-1 tvg-id="France 3" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="France",France 3 FR Geo-Blocked (Auto)
 https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="News",France 4 FR Geo-Blocked (Auto)
+#EXTINF:-1 tvg-id="France 4" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="France",France 4 FR Geo-Blocked (Auto)
 https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="News",France 5 FR Geo-Blocked (Auto)
+#EXTINF:-1 tvg-id="France 5" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="France",France 5 FR Geo-Blocked (Auto)
 https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance5OTTEMTConfiguration/out/v1/46920d328ac14465af4ab26c2b853fdd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TV 5 Monde Info" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1597105628693-49Z6WORVIQU5I0YY6M4B/network_tv5+info.png" group-title="News",TV 5 Monde Info (Auto)
+#EXTINF:-1 tvg-id="TV 5 Monde Info" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1597105628693-49Z6WORVIQU5I0YY6M4B/network_tv5+info.png" group-title="France",TV 5 Monde Info (Auto)
 https://a20bf496-5fba-4e9a-8ec7-a8e1aab2a8d5-00-1hiahnyeswuq6.global.replit.dev/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV5MONDE Europe" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" group-title="France",TV5MONDE Europe (Auto)
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV5Monde Info" tvg-name="" tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="France",TV5Monde Info (Auto)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV5MONDE Style" tvg-name="" tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png" group-title="France",TV5MONDE Style (Auto)
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France 24" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="France",France 24 (Auto)
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="C8" tvg-name="" tvg-logo="https://i.imgur.com/xjGbYQi.png" group-title="France",C8 (Auto)
+https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/France/C8.m3u8
+
+
+#EXTINF:-1 tvg-id="Tivi5MONDE" tvg-name="" tvg-logo="https://www.tivi5mondeplus.com/sites/tivi5mondeplus.com/files/logo-ti5monde.png" group-title="France",Tivi5MONDE (Auto)
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="" tvg-logo="https://i.imgur.com/01CWUCT.png" group-title="France",TF1 (Auto)
+236
+
+
+
+#EXTINF:-1 tvg-id="TF1 Séries" tvg-name="" tvg-logo="https://i.imgur.com/1lpHGSP.png" group-title="France",TF1 Séries(Auto)
+235
+
+
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="" tvg-logo="https://i.imgur.com/xpPToLh.png" group-title="France",Nick JR (Auto)
+456
+
+
+
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png" group-title="France",Nickelodeon FR (Auto)
+455
+
+
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="France",Disney XD (Auto)
+451
+
+
+
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmGQIsgzsWTdPvHjHB5E2VLM_DVoYqx83pt3aww-l&s" group-title="France",Disney JR (Auto)
+453
+
+
+
+#EXTINF:-1 tvg-id="CANAL J" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Canal_J_Logo_2019.svg/1200px-Canal_J_Logo_2019.svg.png" group-title="France",CANAL J (Auto)
+444
+
+
+
+#EXTINF:-1 tvg-id="6ter" tvg-name="" tvg-logo="https://i.imgur.com/gNnFfjR.png" group-title="France",6ter (Auto)
+252
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France", (Auto)
+
+
+
+#EXTINF:-1 tvg-id="TV5MONDE Maghreb" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-bW7xOg7vH6s/XLaxxdalFxI/AAAAAAAAMYk/A6h5rS9XG44A2vj8iaE99mK0JLHZt-zpACLcBGAs/w0/download+%281%29.jpeg" group-title="France",TV5MONDE Maghreb (Auto)
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 
 
 
