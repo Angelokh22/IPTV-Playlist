@@ -525,11 +525,11 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="",Dubai Sports 1 (Auto)
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="Sports",Dubai Sports 1 (Auto)
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="",Dubai Sports 2 (Auto)
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="Sports",Dubai Sports 2 (Auto)
 https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="",Dubai Sports 3 (Auto)
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="Sports",Dubai Sports 3 (Auto)
 https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u8
 
 
