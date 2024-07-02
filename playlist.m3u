@@ -14,6 +14,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD (auto)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nat Geo AD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeo.png" group-title="Documentary",Nat Geo AD backup (auto)
+http://us.pylex.xyz:8765/national-geographic
 
 
 
