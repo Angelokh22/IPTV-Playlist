@@ -1020,6 +1020,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff30370450
 https://live.angelokh.repl.co/stream/live/skysports/formula1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Formula 1 (2)" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsf1.png" group-title="Sky Channels",Sky Sports Fomula 1 (2)
 https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=341458&is_https=&portal=gauloise.cc&portal_port=80
+#EXTINF:-1 tvg-id="Formula1Channel.us" tvg-logo="https://jhaba.com/Picons/Sports/F1.png" group-title="United States",Formula 1 Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
 
 
 
