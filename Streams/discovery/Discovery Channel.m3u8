@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1762000,RESOLUTION=1280x720,CODECS="hevc"
+http://media.cloudbrit.com:8080/live/Stephen33/Stephen33/401860.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2652000,RESOLUTION=1280x720,CODECS="avc1.64001F"
+http://media.cloudbrit.com:8080/live/Stephen33/Stephen33/401853.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2446000,RESOLUTION=1920x1080,CODECS="hevc"
+http://media.cloudbrit.com:8080/live/Stephen33/Stephen33/401822.m3u8
